@@ -1,0 +1,42 @@
+{
+  "name": "pujati.github.io",
+  "version": "0.0.1",
+  "description": "Il portale della 2Asa",
+  "main": "index.js",
+  "authors": {
+    "name": "Daniele Basso",
+    "email": "basso.daniele.scuola@gmail.com"
+  },
+  "repository": "https://github.com/Pujati/pujati.github.io/pujati.github.io",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+    "fix-lint": "run-script-os",
+    "fix-lint:default": "(echo Attempting to fix lint... && markdownlint -c .markdownlint.json -p .markdownlintignore '**/*.md' -f && echo Fixed successfully, please commit.) || (echo Fix failed! && exit 1)",
+    "fix-lint:win32": "(echo Attempting to fix lint... && markdownlint -c .markdownlint.json -p .markdownlintignore **/*.md -f && echo Fixed successfully, please commit.) || (echo Fix failed! && exit 1)",
+    "lint": "run-script-os",
+    "lint:default": "(echo Linting... && markdownlint -c .markdownlint.json -p .markdownlintignore '**/*.md' && echo Lint passed.) || (echo Lint failed! Please review and fix errors. && exit 1)",
+    "lint:win32": "(echo Linting... && markdownlint -c .markdownlint.json -p .markdownlintignore **/*.md && echo Lint passed.) || (echo Lint failed! Please review and fix errors. && exit 1)",
+    "lint-ci": "run-script-os",
+    "lint-ci:default": "(echo Linting... && markdownlint -c .markdownlint.json -p .markdownlintignore '**/*.md' && echo Lint passed.) || ((echo Lint failed, attempting fix... && markdownlint -c .markdownlint.json -p .markdownlintignore '**/*.md' -f && echo Fix generated successfully. Please apply the following diff using git apply && git diff) || echo Fix failed! && exit 1)",
+    "lint-ci:win32": "(echo Linting... && markdownlint -c .markdownlint.json -p .markdownlintignore **/*.md && echo Lint passed.) || ((echo Lint failed, attempting fix... && markdownlint -c .markdownlint.json -p .markdownlintignore **/*.md -f && echo Fix generated successfully. Please apply the following diff using git apply && git diff) || echo Fix failed! && exit 1)",
+    "test": "run-script-os",
+    "test:default": "npm run lint --silent",
+    "test:win32": "npm run lint --silent"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "markdown-it-multimd-table": "^4.0.3",
+    "markdown-link-check": "^3.8.7",
+    "markdownlint-cli": "^0.27.1",
+    "run-script-os": "^1.1.6",
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-medium-zoom": "^1.1.9",
+    "vuepress-plugin-zooming": "^1.1.8",
+    "vuepress-theme-book": "0.0.5",
+    "vuepress-theme-dark-new": "^0.1.2",
+    "vuepress-theme-succinct": "^1.7.1",
+    "vuepress-theme-yuu": "^3.0.1"
+  }
+}
