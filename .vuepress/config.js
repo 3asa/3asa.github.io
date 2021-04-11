@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'Portale 2asa',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -42,19 +42,15 @@ module.exports = {
         link: '/config/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'Chi siamo',
+        link: '/chisiamo/'
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/chsiamo/': [
         {
-          title: 'Guide',
+          title: 'Chi siamo',
           collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
         }
       ],
     }
