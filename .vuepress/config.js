@@ -10,7 +10,7 @@ module.exports = {
   ],
   themeConfig: {
     editLink: false,
-    nav: [
+    navbar: [
       {
         text: 'Guide',
         link: '/guide/',
