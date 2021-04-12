@@ -2,8 +2,13 @@
 home: true
 heroImage: 
 tagline: Il portale della 2Asa
-actionText: Inizia →
-actionLink: /chisiamo/
+actions:
+  - text: Inizia →
+    link: /chisiamo/
+    type: primary
+  - text: Introduction
+    link: /guide/
+    type: secondary
 features:
 - title: Giornale
   details: Trovaci su Instagram!!!
