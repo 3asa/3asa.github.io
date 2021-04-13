@@ -1,5 +1,5 @@
 {
-  "name": "2asa.github.io",
+  "name": "pujati.github.io",
   "version": "0.0.1",
   "description": "Il portale della 2Asa",
   "main": "index.js",
@@ -7,6 +7,7 @@
     "name": "Daniele Basso",
     "email": "basso.daniele.scuola@gmail.com"
   },
+  "repository": "https://github.com/Pujati/pujati.github.io/pujati.github.io",
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build",
@@ -23,25 +24,14 @@
     "test:default": "npm run lint --silent",
     "test:win32": "npm run lint --silent"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/2asa/2asa.github.io.git"
-  },
-  "author": "2asa",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/2asa/2asa.github.io/issues"
-  },
-  "homepage": "https://github.com/2asa/2asa.github.io#readme",
-  "dependencies": {
-    "@vue/component-compiler-utils": "^3.2.0",
+  "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.8.2",
-    "@vuepress/shared-utils": "^1.8.2",
     "markdown-it-multimd-table": "^4.0.3",
     "markdown-link-check": "^3.8.7",
     "markdownlint-cli": "^0.27.1",
     "run-script-os": "^1.1.6",
-    "vuepress": "^2.0.0-beta.8",
+    "vuepress": "^1.8.2",
     "vuepress-plugin-medium-zoom": "^1.1.9",
     "vuepress-plugin-zooming": "^1.1.8",
     "vuepress-theme-book": "0.0.5",
