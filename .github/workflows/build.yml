@@ -42,5 +42,4 @@ jobs:
       - name: Lint
         uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
-          use-quiet-mode: 'yes'
           base-branch: 'main'
