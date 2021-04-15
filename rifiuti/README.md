@@ -6,7 +6,7 @@ footer: Made by Diego Sist with ❤️
 
 Si definiscono rifiuti pericolosi quelli contenenti un’alta concentrazione di sostanze inquinanti, che devono essere necessariamente ridotti e seguono specifici trattamenti per essere resi innocui.
 
-![Rifiuti](./img/rifiuti.png)
+![Rifiuti](./img/Rifiuti.png)
 
 Vi sono diverse categorie di questi rifiuti:
 
@@ -80,7 +80,7 @@ La sostenibilità ambientale inizia dalle piccole cose quotidiane, che ognuno pu
 - Andare a fare la spesa senza prendere la borsa al negozio, ma portarsela direttamente da casa, come borse di tela.
 - Usare, quando è possibile, carta riciclata.
 
-![](./img/logo.png)
+![](./img/Logo.png)
 
 ![](./img/Go Green.png)
 
