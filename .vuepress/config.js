@@ -12,7 +12,7 @@ module.exports = {
       {
         text: 'Chi siamo',
         link: '/chisiamo/'
-      }
+      },
       {
         text: 'Rifiuti',
         link: '/rifiuti/'
