@@ -82,7 +82,7 @@ La sostenibilità ambientale inizia dalle piccole cose quotidiane, che ognuno pu
 
 ![](./img/Logo.png)
 
-![](./img/Go Green.png)
+![](./img/GoGreen.png)
 
 ![](./img/Bin.png)
 
