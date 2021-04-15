@@ -1,6 +1,5 @@
 ---
 home: true
-heroImage: 
 tagline: Il portale della 2Asa
 actionText: Inizia →
 actionLink: /chisiamo/

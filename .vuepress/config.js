@@ -12,6 +12,7 @@ module.exports = {
   ],
   themeConfig: {
     editLink: false,
+    smoothScroll: true,
     nav: [
       {
         items: [
