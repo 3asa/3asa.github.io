@@ -2,7 +2,7 @@ const { description } = require('../package')
 
 module.exports = {
   title: 'Portale 2asa',
-  description: description,
+  description: 'La classe di disperati tenta di recuperare!',
   head: [
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' }]
   ],
@@ -10,20 +10,16 @@ module.exports = {
     editLink: false,
     navbar: [
       {
-        text: 'Guide',
-        link: '/guide/',
-      },
-      {
-        text: 'Config',
-        link: '/config/'
-      },
-      {
         text: 'Chi siamo',
         link: '/chisiamo/'
       }
+      {
+        text: 'Rifiuti',
+        link: '/rifiuti/'
+      }
     ],
     sidebar: {
-      '/chsiamo/': [
+      '/chisiamo/': [
         {
           title: 'Chi siamo',
           collapsable: false,
