@@ -33,7 +33,6 @@
     "run-script-os": "1.1.6",
     "vuepress": "1.8.2",
     "vuepress-plugin-medium-zoom": "1.1.9",
-    "vuepress-theme-book": "0.0.5",
-    "vuepress-theme-dark-new": "0.1.2"
+    "vuepress-theme-book": "0.0.5"
   }
 }
