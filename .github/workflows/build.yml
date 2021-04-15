@@ -39,5 +39,5 @@ jobs:
           submodules: 'recursive'
       - name: Setup Node
         uses: actions/setup-node@v2
-      - name: Install
-        run: npm install
+      - name: Lint
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
