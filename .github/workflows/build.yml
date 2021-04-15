@@ -1,8 +1,6 @@
 name: Build/Test/Deploy
 on:
   push:
-    branches-ignore:
-      - gh-pages
   workflow_dispatch:
   pull_request:
 jobs:
@@ -22,8 +20,8 @@ jobs:
       - name: Build
         run: npm run build
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@4.1.1
-        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main'}}
+        uses: JamesIves/github-pages-deploy-action@4
+        if: ${{github.event_name == 'push' && github.ref == 'refs/heads/main'}}
         with:
           branch: gh-pages
           folder: .vuepress/dist/
@@ -39,5 +37,10 @@ jobs:
           submodules: 'recursive'
       - name: Setup Node
         uses: actions/setup-node@v2
+      - name: Install
+        run: npm install
       - name: Lint
         uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: 'yes'
+          base-branch: 'main'
