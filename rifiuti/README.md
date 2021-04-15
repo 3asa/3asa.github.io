@@ -4,6 +4,8 @@ footer: Made by Diego Sist with ❤️
 
 # RIFIUTI PERICOLOSI
 
+## Che cosa sono i rifiuti pericolosi
+
 Si definiscono rifiuti pericolosi quelli contenenti un’alta concentrazione di sostanze inquinanti, che devono essere necessariamente ridotti e seguono specifici trattamenti per essere resi innocui.
 
 ![Rifiuti](./img/Rifiuti.png)
@@ -69,7 +71,7 @@ Dopo lo stoccaggio vengono trasportati, con mezzi autorizzati al trasporto dei r
 
 ![](./img/Mask.png)
 
-# SOSTENIBILITÁ AMBIENTALE
+## La Sostenibilità Ambientale
 
 Il nostro pianeta non ha risorse all’infinito, per questo bisogna averne cura per rispettare un bene che appartiene a tutti noi e, particolarmente, alle generazioni future. 
 

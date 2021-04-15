@@ -4,28 +4,43 @@ module.exports = {
   title: 'Portale 2asa',
   description: 'La classe di disperati tenta di recuperare!',
   head: [
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' }]
+    ['meta',
+      {
+        name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent'
+      }
+    ]
   ],
   themeConfig: {
     editLink: false,
-    navbar: [
+    nav: [
       {
-        text: 'Chi siamo',
-        link: '/chisiamo/'
+        items: [
+          {
+            text: 'Chi siamo',
+            link: 'chisiamo'
+          },
+          {
+            text: 'Rifiuti',
+            link: 'rifiuti'
+          },
+        ]
       },
-      {
-        text: 'Rifiuti',
-        link: '/rifiuti/'
-      }
     ],
-    sidebar: {
-      '/chisiamo/': [
+    sidebar:
+      [
         {
           title: 'Chi siamo',
+          path: 'chisiamo',
+        },
+        {
+          title: 'Tema di intersezione',
           collapsable: false,
+          children:
+            [
+              'rifiuti',
+            ]
         }
       ],
-    }
   },
   plugins: [
     '@vuepress/back-to-top',
