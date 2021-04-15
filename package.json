@@ -33,7 +33,6 @@
     "markdownlint-cli": "^0.27.1",
     "run-script-os": "^1.1.6",
     "vuepress": "^1.8.2",
-    "vuepress-plugin-medium-zoom": "^1.1.9",
     "vuepress-theme-book": "^0.0.5"
   }
 }
