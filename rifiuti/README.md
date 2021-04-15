@@ -88,8 +88,4 @@ La sostenibilità ambientale inizia dalle piccole cose quotidiane, che ognuno pu
 
 ![](./img/Bin.png)
 
-::: tip
-
 *La Terra è una sola e non possiamo più permetterci di rovinarla ulteriormente, bisogna averne rispetto.*
-
-:::

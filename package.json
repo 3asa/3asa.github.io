@@ -2,7 +2,6 @@
   "name": "pujati.github.io",
   "version": "0.0.1",
   "description": "Il portale della 2Asa",
-  "main": "index.js",
   "authors": {
     "name": "Daniele Basso",
     "email": "basso.daniele.scuola@gmail.com"
