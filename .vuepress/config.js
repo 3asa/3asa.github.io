@@ -17,11 +17,11 @@ module.exports = {
         items: [
           {
             text: 'Chi siamo',
-            link: 'chisiamo'
+            link: '/chisiamo/'
           },
           {
             text: 'Rifiuti',
-            link: 'rifiuti'
+            link: '/rifiuti/'
           },
         ]
       },
@@ -30,14 +30,14 @@ module.exports = {
       [
         {
           title: 'Chi siamo',
-          path: 'chisiamo',
+          path: '/chisiamo/',
         },
         {
           title: 'Tema di intersezione',
           collapsable: false,
           children:
             [
-              'rifiuti',
+              '/rifiuti/',
             ]
         }
       ],
