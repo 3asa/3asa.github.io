@@ -2,7 +2,8 @@
 
 ## Che cosa sono i rifiuti pericolosi
 
-Si definiscono rifiuti pericolosi quelli contenenti un’alta concentrazione di sostanze inquinanti, che devono essere necessariamente ridotti e seguono specifici trattamenti per essere resi innocui.
+Si definiscono rifiuti pericolosi quelli contenenti un’alta concentrazione di sostanze inquinanti.
+Devono essere necessariamente ridotti e seguono specifici trattamenti per essere resi innocui.
 
 ![Rifiuti](./img/Rifiuti.png)
 
@@ -13,9 +14,9 @@ Vi sono diverse categorie di questi rifiuti:
 - a rischio infettivo, generalmente di tipo sanitario, come i materiali provenienti da ambienti di isolamento infettivo in cui è presente il rischio di trasmissione biologica aerea, o rifiuti di sepoltura e cremazione.
 - pericolosi in agricoltura, come oli esauriti prodotti da motori e freni, farmaci ad uso zootecnico, pneumatici usati o materie plastiche.
 
-![](./img/Copertoni.png)
+![Copertoni](./img/Copertoni.png)
 
-![](./img/Batterie.png)
+![Copertoni](./img/Batterie.png)
 
 Questi rifiuti richiedono una particolare attenzione per la raccolta, per il trasporto e lo smaltimento, in base alla loro composizione, quindi al loro pericolo, sono classificati in modo diverso.
 
@@ -51,7 +52,7 @@ Possono essere:
 
 - **HP 15 Rifiuti che possiedono direttamente una di queste caratteristiche di pericolo ma possono manifestarle successivamente**: tutti i rifiuti che potrebbero presentare rischi per l’ambiente in futuro.
 
-![](./img/Warns.png)
+![Avvisi tossicità](./img/Warns.png)
 
 Un grande problema di queste tipologie è l’abbandono da parte della specie umana, propriamente definito *littering*.
 
@@ -63,9 +64,9 @@ Inizialmente vengono posti in un deposito temporaneo, spesso situato nel sito di
 
 Dopo lo stoccaggio vengono trasportati, con mezzi autorizzati al trasporto dei rifiuti speciali e pericolosi, in appositi impianti di recupero o smaltimento, a seconda della propria natura e della pericolosità.
 
-![](./img/Ruspa.png)
+![Discarica](./img/Ruspa.png)
 
-![](./img/Mask.png)
+![Uomo mascherato](./img/Mask.png)
 
 ## La Sostenibilità Ambientale
 
@@ -86,4 +87,4 @@ La sostenibilità ambientale inizia dalle piccole cose quotidiane, che ognuno pu
 
 *La Terra è una sola e non possiamo più permetterci di rovinarla ulteriormente, bisogna averne rispetto.*
 
-*Made by Diego Sist with ❤️*
+## *Made by Diego Sist with ❤️*
