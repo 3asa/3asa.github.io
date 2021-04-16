@@ -10,7 +10,7 @@ Devono essere necessariamente ridotti e seguono specifici trattamenti per essere
 Vi sono diverse categorie di questi rifiuti:
 
 - scarti industriali, come quelli provenienti dalla raffinazione del petrolio, dall’industria fotografica o metallurgica o da altri processi chimici. 
-- scarti di origine civile come le pile esaurite ed i medicinali scaduti.   
+- scarti di origine civile come le pile esaurite ed i medicinali scaduti.
 - a rischio infettivo, generalmente di tipo sanitario, come i materiali provenienti da ambienti di isolamento infettivo in cui è presente il rischio di trasmissione biologica aerea, o rifiuti di sepoltura e cremazione.
 - pericolosi in agricoltura, come oli esauriti prodotti da motori e freni, farmaci ad uso zootecnico, pneumatici usati o materie plastiche.
 
@@ -79,11 +79,11 @@ La sostenibilità ambientale inizia dalle piccole cose quotidiane, che ognuno pu
 - Andare a fare la spesa senza prendere la borsa al negozio, ma portarsela direttamente da casa, come borse di tela.
 - Usare, quando è possibile, carta riciclata.
 
-![](./img/Logo.png)
+![Logo riciclo](./img/Logo.png)
 
-![](./img/GoGreen.png)
+![Borsa Go Green](./img/GoGreen.png)
 
-![](./img/Bin.png)
+![Cestini spazzatura](./img/Bin.png)
 
 *La Terra è una sola e non possiamo più permetterci di rovinarla ulteriormente, bisogna averne rispetto.*
 
