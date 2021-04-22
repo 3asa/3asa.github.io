@@ -52,6 +52,7 @@ module.exports = {
           children:
             [
               '/epica/didone_innamorata.md',
+              '/epica/fuga_addio.md',
             ]
         }
       ],
