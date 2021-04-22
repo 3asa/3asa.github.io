@@ -48,7 +48,7 @@ module.exports = {
         {
           title: 'Epica',
           collapsable: false,
-          path: 'epica/',
+          path: '/epica/',
           children:
             [
               '/epica/didone_innamorata.md',
