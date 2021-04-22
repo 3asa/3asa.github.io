@@ -9,6 +9,6 @@
 	"no-emphasis-as-heading": false,
 	"single-title": false,
 	"ul-style": {
-		"style": "asterisk"
+		"style": "dash"
 	}
 }
