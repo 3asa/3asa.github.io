@@ -24,6 +24,10 @@ module.exports = {
             text: 'Rifiuti',
             link: '/rifiuti/'
           },
+          {
+            text: 'Epica',
+            link: '/epica/'
+          },
         ]
       },
     ],
@@ -39,6 +43,15 @@ module.exports = {
           children:
             [
               '/rifiuti/',
+            ]
+        },
+        {
+          title: 'Epica',
+          collapsable: false,
+          path: 'epica/',
+          children:
+            [
+              '/epica/didone_innamorata.md',
             ]
         }
       ],

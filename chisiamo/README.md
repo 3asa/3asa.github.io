@@ -20,8 +20,6 @@ Se vogliamo esprimerla in altro modo:
 2. Schematica
 3. Intuitiva
 
-# Header 1
-
 ## Header 2
 
 ### Header 3
