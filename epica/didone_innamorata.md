@@ -1,4 +1,6 @@
-# DIDONE INNAMORATA
+# Didone Innamorata
+
+[[toc]]
 
 ## Riassunto
 

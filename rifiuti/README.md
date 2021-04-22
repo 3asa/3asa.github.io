@@ -1,4 +1,6 @@
-# RIFIUTI PERICOLOSI
+# Rifiuti Pericolosi
+
+[[toc]]
 
 ## Che cosa sono i rifiuti pericolosi
 
