@@ -10,11 +10,9 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
-        with:
-          fetch-depth: '0'
-          submodules: 'recursive'
       - name: Setup Node
         uses: actions/setup-node@v2
+      - name: Install
         run: npm install
       - name: Build
         run: npm run build
@@ -31,8 +29,9 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
-      - name: setup node
+      - name: Setup Node
         uses: actions/setup-node@v2
+      - name: Install
         run: npm install
       - name: Lint
         run: npm run fixlint
