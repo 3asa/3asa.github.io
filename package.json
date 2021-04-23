@@ -9,7 +9,9 @@
   "repository": "https://github.com/Pujati/pujati.github.io/pujati.github.io",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build"
+    "build": "vuepress build",
+    "lint": "markdownlint **/*.md",
+    "fixlint": "markdownlint **/*.md -f"
   },
   "license": "MIT",
   "devDependencies": {

@@ -37,7 +37,7 @@ Decide quindi di confidare i propri sentimenti e dubbi alla sorella Anna, che le
 
 Questo brano si basa principalmente sui rapporti e i sentimenti tra i personaggi.
 Il modo in cui Didone si confida con la sorella fa intendere il legame intenso di amicizia che c’è tra loro e che riesce ad andare oltre al tipico rapporto tra sorelle, infatti sono importanti l’una per l’altra (r. 31: *O alla tua sorella più cara del sole*).
-Didone è molto legata, ma soprattutto devota, anche al defunto marito e non vuole mancare alla promessa di fedeltà fatta (r. 15-17: *se non avessi nell’animo...mi illuse e deluse*), dimostrandosi molto decisa nel rispettarla (r.28-29: *quello, colui…nel sepolcro li serbi*). 
+Didone è molto legata, ma soprattutto devota, anche al defunto marito e non vuole mancare alla promessa di fedeltà fatta (r. 15-17: *se non avessi nell’animo...mi illuse e deluse*), dimostrandosi molto decisa nel rispettarla (r.28-29: *quello, colui…nel sepolcro li serbi*).
 Inoltre, prova un senso di colpa per essersi innamorata dell’eroe troiano (r. 20-23: *lo confesso Anna… vacilla, l’animo*), e dimostra di provare un sentimento ostile per il fratello, causa della morte del marito (r. 21: *e dalla strage fraterna che asperse i Penati*) e delle minacce verso il suo popolo (r.43-44: *e a che ricordare…le minacce del fratello*).
 Il rapporto che ha con Enea sottolinea l’amore che la regina prova per l’eroe, ma che al tempo stesso non vorrebbe provare (r.38: *ma muoverai guerra perfino a un amore gradito?*); questa unione poteva inoltre essere vantaggiosa, da un punto di vista politico, in quanto Enea l’avrebbe protetta dai pretendenti che un tempo, aveva respinto (r.39: *né ti ritorna in mente nei campi di chi hai posato sede?*).
 

@@ -35,4 +35,4 @@ jobs:
       - name: setup node
         uses: actions/setup-node@v2
       - name: Lint
-        run: markdownlint '**/*.md'
+        run: npm run Fixlint

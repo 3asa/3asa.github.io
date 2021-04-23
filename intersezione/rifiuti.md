@@ -11,7 +11,7 @@ Devono essere necessariamente ridotti e seguono specifici trattamenti per essere
 
 Vi sono diverse categorie di questi rifiuti:
 
-- scarti industriali, come quelli provenienti dalla raffinazione del petrolio, dall’industria fotografica o metallurgica o da altri processi chimici. 
+- scarti industriali, come quelli provenienti dalla raffinazione del petrolio, dall’industria fotografica o metallurgica o da altri processi chimici.
 - scarti di origine civile come le pile esaurite ed i medicinali scaduti.
 - a rischio infettivo, generalmente di tipo sanitario, come i materiali provenienti da ambienti di isolamento infettivo in cui è presente il rischio di trasmissione biologica aerea, o rifiuti di sepoltura e cremazione.
 - pericolosi in agricoltura, come oli esauriti prodotti da motori e freni, farmaci ad uso zootecnico, pneumatici usati o materie plastiche.
@@ -72,7 +72,7 @@ Dopo lo stoccaggio vengono trasportati, con mezzi autorizzati al trasporto dei r
 
 ## La Sostenibilità Ambientale
 
-Il nostro pianeta non ha risorse all’infinito, per questo bisogna averne cura per rispettare un bene che appartiene a tutti noi e, particolarmente, alle generazioni future. 
+Il nostro pianeta non ha risorse all’infinito, per questo bisogna averne cura per rispettare un bene che appartiene a tutti noi e, particolarmente, alle generazioni future.
 
 La sostenibilità ambientale inizia dalle piccole cose quotidiane, che ognuno può e dovrebbe svolgere, per aiutare il nostro pianeta:
 
