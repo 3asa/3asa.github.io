@@ -5,4 +5,4 @@ footer: Made by us
 ---
 # Indice
 
-* [Rifiuti pericolosi](./rifiuti)
+* [Rifiuti pericolosi](rifiuti.md)
