@@ -31,31 +31,7 @@ module.exports = {
         ]
       },
     ],
-    sidebar:
-      [
-        {
-          title: 'Chi siamo',
-          path: '/chisiamo/',
-        },
-        {
-          title: 'Tema di intersezione',
-          collapsable: false,
-          children:
-            [
-              '/rifiuti/',
-            ]
-        },
-        {
-          title: 'Epica',
-          collapsable: false,
-          path: '/epica/',
-          children:
-            [
-              '/epica/didone_innamorata.md',
-              '/epica/fuga_addio.md',
-            ]
-        }
-      ],
+    sidebar: 'auto',
   },
   plugins: [
     '@vuepress/back-to-top',
