@@ -5,5 +5,5 @@ footer: Made by us
 ---
 # Indice
 
-* [Didone Innamorata](./didone_innamorata.md)
-* [Una fuga sofferta e un addio](./fuga_addio.md)
+* [Didone Innamorata](didone_innamorata.md)
+* [Una fuga sofferta e un addio](fuga_addio.md)
