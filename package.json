@@ -1,18 +1,13 @@
 {
   "name": "pujati.github.io",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Il portale della 2Asa",
-  "authors": {
-    "name": "Daniele Basso",
-    "email": "basso.daniele.scuola@gmail.com"
-  },
-  "repository": "https://github.com/Pujati/pujati.github.io/pujati.github.io",
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build",
-    "lint": "markdownlint **/*.md",
     "fixlint": "markdownlint **/*.md -f"
   },
+  "author": "Daniele Basso",
   "license": "MIT",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.8.2",
