@@ -1,4 +1,2 @@
 default: true
-line_length: false
-fenced-code-language: false
-no-alt-text: false
+MD013: false
