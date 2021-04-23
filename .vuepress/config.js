@@ -40,9 +40,10 @@ module.exports = {
         {
           title: 'Tema di intersezione',
           collapsable: false,
+          path: '/intersezione/',
           children:
             [
-              '/rifiuti/',
+              '/intersezione/rifiuti',
             ]
         },
         {
