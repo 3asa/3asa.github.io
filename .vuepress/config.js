@@ -1,15 +1,7 @@
-const { description } = require('../package')
-
 module.exports = {
+  lang: 'it-IT',
   title: 'Portale 2asa',
   description: 'La classe di disperati tenta di recuperare!',
-  head: [
-    ['meta',
-      {
-        name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent'
-      }
-    ]
-  ],
   themeConfig: {
     editLink: false,
     smoothScroll: true,
