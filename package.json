@@ -1,6 +1,5 @@
 {
   "name": "pujati.github.io",
-  "version": "0.0.0",
   "description": "Il portale della 2Asa",
   "scripts": {
     "dev": "vuepress dev",
