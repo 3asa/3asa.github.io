@@ -6,7 +6,6 @@
     "build": "vuepress build",
     "fixlint": "markdownlint-cli2-fix **/*.md #node_modules"
   },
-  "author": "Daniele Basso",
   "license": "MIT",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.8.2",
