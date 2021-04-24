@@ -5,5 +5,3 @@ node_modules/
 .vuepress/.temp
 .vuepress/.cache
 .vuepress/.config.js.swp
-yarn.lock
-yarn-error.log

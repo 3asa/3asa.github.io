@@ -12,10 +12,7 @@
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.8.2",
     "@vuepress/plugin-medium-zoom": "^1.8.2",
-    "vuepress": "^1.8.2",
-    "vuepress-theme-book": "^0.0.5"
-  },
-  "dependencies": {
-    "markdownlint-cli": "^0.27.1"
+    "markdownlint-cli": "^0.27.1",
+    "vuepress": "^1.8.2"
   }
 }
