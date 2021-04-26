@@ -5,45 +5,36 @@ module.exports = {
   themeConfig: {
     editLink: false,
     smoothScroll: true,
-    nav: [
+    navbar:
+    [
       {
-        items: [
-          {
-            text: 'Tema di Intersezione',
-            link: '/intersezione/'
-          },
-          {
-            text: 'Epica',
-            link: '/epica/'
-          },
-        ]
+        text: 'Tema di Intersezione',
+        link: '/intersezione/'
+      },
+      {
+        text: 'Epica',
+        link: '/epica/'
       },
     ],
     sidebar:
-      [
-        {
-          title: 'Tema di intersezione',
-          collapsable: false,
-          path: '/intersezione/',
-          children:
-            [
-              '/intersezione/rifiuti',
-            ]
-        },
-        {
-          title: 'Epica',
-          collapsable: false,
-          path: '/epica/',
-          children:
-            [
-              '/epica/didone_innamorata.md',
-              '/epica/fuga_addio.md',
-            ]
-        }
-      ],
-  },
-  plugins: [
-    '@vuepress/back-to-top',
-    '@vuepress/medium-zoom',
-  ]
+    [
+      {
+        text: 'Tema di Intersezione',
+        link: '/intersezione/',
+        children: [
+          {
+            text: 'Rifiuti',
+            link: '/intersezione/'
+          }
+        ],
+      },
+      {
+        text: 'Epica',
+        link: '/epica/',
+        children: [
+          
+        ]
+      },
+    ]
+  }
 }
