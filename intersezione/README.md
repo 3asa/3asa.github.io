@@ -5,4 +5,6 @@ footer: Made by us
 ---
 # Indice
 
-* [Rifiuti pericolosi](rifiuti.md)
+| Testo                                         | Autori                                                     |
+|-----------------------------------------------|------------------------------------------------------------|
+| [Rifiuti pericolosi](rifiuti.md)              | Diego Sist                                                 |
