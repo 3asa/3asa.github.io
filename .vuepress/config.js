@@ -9,10 +9,6 @@ module.exports = {
       {
         items: [
           {
-            text: 'Chi siamo',
-            link: '/chisiamo/'
-          },
-          {
             text: 'Tema di Intersezione',
             link: '/intersezione/'
           },
@@ -25,10 +21,6 @@ module.exports = {
     ],
     sidebar:
       [
-        {
-          title: 'Chi siamo',
-          path: '/chisiamo/',
-        },
         {
           title: 'Tema di intersezione',
           collapsable: false,

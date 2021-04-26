@@ -4,9 +4,15 @@ tagline: Il portale della 2Asa
 footer: Made by Daniele Basso
 ---
 
-# Indice
+# 2ASA
+
+## Indice
 
 * [Chi siamo](/chisiamo/)
 * [Tema di intersezione](/intersezione/)
 * [Progetto Epica](/epica/)
 * [Nerosubianco](https://nerosubianco.ga)
+
+## Chi siamo
+
+Siamo una classe di disperati, e perciò stiamo facendo un sito web.
