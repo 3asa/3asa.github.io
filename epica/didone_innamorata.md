@@ -47,5 +47,3 @@ La durata del brano è di una giornata intera, inizia all’alba dopo la notte i
 Principalmente il brano è raccontato al presente e al passato e non sono presenti molti avverbi di tempo.
 Il brano è ambientato nelle stanze del palazzo reale (si presuppone che il dialogo tra le due sorelle avvenga nella stanza da letto di Didone, dopo il risveglio della regina; r.82: *sola si strugge nei vuoti di casa e si adagia sui drappi ora lasciati*) e tra le strade di Cartagine (r.68-69: *l’infelice Didone arde…per la città*; r.74-75: *ora con sé fra le mura…quasi pronta*).
 Vengono citati inoltre i luoghi natali dei personaggi come Tiro (città da cui proviene Didone), Libia e Africa (da cui provengono i pretendenti).
-
-## *Made by Cescon Stella, Santin Giulia, Canal Elisa, Zanette Martina*

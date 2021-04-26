@@ -13,8 +13,8 @@ module.exports = {
             link: '/chisiamo/'
           },
           {
-            text: 'Rifiuti',
-            link: '/rifiuti/'
+            text: 'Tema di Intersezione',
+            link: '/intersezione/'
           },
           {
             text: 'Epica',
@@ -27,25 +27,25 @@ module.exports = {
       [
         {
           title: 'Chi siamo',
-          path: '/chisiamo/',
+          path: 'chisiamo/',
         },
         {
           title: 'Tema di intersezione',
           collapsable: false,
-          path: '/intersezione/',
+          path: 'intersezione/',
           children:
             [
-              '/intersezione/rifiuti',
+              'intersezione/rifiuti',
             ]
         },
         {
           title: 'Epica',
           collapsable: false,
-          path: '/epica/',
+          path: 'epica/',
           children:
             [
-              '/epica/didone_innamorata.md',
-              '/epica/fuga_addio.md',
+              'epica/didone_innamorata.md',
+              'epica/fuga_addio.md',
             ]
         }
       ],
