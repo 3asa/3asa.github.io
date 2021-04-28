@@ -24,7 +24,7 @@ module.exports = {
         children: [
           {
             text: 'Rifiuti',
-            link: '/intersezione/'
+            link: '/intersezione/rifiuti'
           }
         ],
       },
@@ -32,7 +32,14 @@ module.exports = {
         text: 'Epica',
         link: '/epica/',
         children: [
-          
+          {
+            text: 'Didone Innamorata',
+            link: '/epica/didone_innamorata'
+          },
+          {
+            text: 'Una fuga sofferta e un addio',
+            link: '/epica0/fuga_addio'
+          }
         ]
       },
     ]

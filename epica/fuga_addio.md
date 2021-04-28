@@ -1,4 +1,4 @@
-# Una fuga sofferta e un'addio
+# Una fuga sofferta e un addio
 
 [[toc]]
 
