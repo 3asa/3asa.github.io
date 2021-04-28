@@ -36,7 +36,7 @@ jobs:
       - name: Lint
         run: npm run fixlint
   copy:
-    name: Copy HTML code
+    name: Copy docs folder
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
