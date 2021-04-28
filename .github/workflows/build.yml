@@ -45,8 +45,8 @@ jobs:
         uses: andstor/copycat-action@v3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          src_path: /docs/
-          dst_path: /.
+          src_path: /docs/*
+          dst_path: /docs/
           src_branch: main
           dst_branch: gh-pages
           dst_owner: 2asa
