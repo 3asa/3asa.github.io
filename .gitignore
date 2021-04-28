@@ -5,3 +5,4 @@ node_modules/
 .vuepress/.temp
 .vuepress/.cache
 .vuepress/.config.js.swp
+package-lock.json
