@@ -35,3 +35,19 @@ jobs:
         run: npm install
       - name: Lint
         run: npm run fixlint
+  copy:
+    name: copy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Copy
+        uses: andstor/copycat-action@v3
+        with:
+          personal_token: ${{ secrets.ACCESS_TOKEN }}
+          src_path: /docs/
+          src_branch: main
+          dst_branch: gh-pages
+          dst_owner: 2asa
+          dst_repo_name: 2asa.github.io
+          clean: true
