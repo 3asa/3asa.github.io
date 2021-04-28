@@ -21,24 +21,26 @@ module.exports = {
       {
         text: 'Tema di Intersezione',
         link: '/intersezione/',
+        isGroup: true,
         children: [
           {
             text: 'Rifiuti',
-            link: '/intersezione/rifiuti'
+            link: '/intersezione/rifiuti.md'
           }
         ],
       },
       {
         text: 'Epica',
         link: '/epica/',
+        isGroup: true,
         children: [
           {
             text: 'Didone Innamorata',
-            link: '/epica/didone_innamorata'
+            link: '/epica/didone_innamorata.md'
           },
           {
             text: 'Una fuga sofferta e un addio',
-            link: '/epica0/fuga_addio'
+            link: '/epica/fuga_addio.md'
           }
         ]
       },
