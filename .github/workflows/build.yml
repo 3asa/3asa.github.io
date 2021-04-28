@@ -46,6 +46,7 @@ jobs:
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           src_path: /docs/
+          dst_path: /.
           src_branch: main
           dst_branch: gh-pages
           dst_owner: 2asa
