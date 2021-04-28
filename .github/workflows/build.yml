@@ -22,7 +22,7 @@ jobs:
         with:
           branch: gh-pages
           folder: .vuepress/dist/
-          clean-exclude: docs/
+          clean-exclude: docs/, .gitignore
   lint:
     name: Lint
     runs-on: ubuntu-latest
