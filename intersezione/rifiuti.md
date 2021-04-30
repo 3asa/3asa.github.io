@@ -95,9 +95,9 @@ La pulizia delle latrine pubbliche era effettuata dai conciatori di pelli poich�
 
 ![](./img/Immagine9.png)
 
-Le discariche romane erano chiamate *puticuli*. In essi venivano lasciati rifiuti di ogni tipo e corpi di gladiatori uccisi nei giochi e schiavi morti. Una discarica molto particolare è Monte Testaccio: durante il periodo romano l’eccessivo accumulo di cocci (*testæ* in latino) in un *puticulo*, tale da formare una collinetta alta circa 45 metri sopra il livello del suolo. 
+Le discariche romane erano chiamate *puticuli*. In essi venivano lasciati rifiuti di ogni tipo e corpi di gladiatori uccisi nei giochi e schiavi morti. Una discarica molto particolare è Monte Testaccio: durante il periodo romano l’eccessivo accumulo di cocci (*testæ* in latino) in un *puticulo*, tale da formare una collinetta alta circa 45 metri sopra il livello del suolo.
 
-A Roma ed in tutto l’Impero Romano, nel corso della sua lunga storia, sono stati emanati molti editti per rendere sempre più pulite le città e smaltire in modo regolare i rifiuti. 
+A Roma ed in tutto l’Impero Romano, nel corso della sua lunga storia, sono stati emanati molti editti per rendere sempre più pulite le città e smaltire in modo regolare i rifiuti.
 
 Gli imperatori che si dimostravano molto attenti nel mantenere la pulizia delle città venivano investiti del titolo di *Curator*.
 
@@ -116,7 +116,7 @@ Dopo l’anno Mille molte autorità promulgarono leggi per limitare l’abbandon
 
 ### Rinascimento e secoli successivi
 
-Nel Rinascimento e nei secoli successivi il rapporto tra uomo e rifiuti non è cambiato: le strade erano spesso sporche e colme di spazzatura e le condizioni igieniche precarie. Molti governi locali tentarono di imporre leggi contro il parziale degrado dei centri abitati, confidando nella collaborazione dei cittadini. Queste ordinanze riuscirono ad arginare temporaneamente il problema. 
+Nel Rinascimento e nei secoli successivi il rapporto tra uomo e rifiuti non è cambiato: le strade erano spesso sporche e colme di spazzatura e le condizioni igieniche precarie. Molti governi locali tentarono di imporre leggi contro il parziale degrado dei centri abitati, confidando nella collaborazione dei cittadini. Queste ordinanze riuscirono ad arginare temporaneamente il problema.
 
 In questo periodo quasi tutti gli edifici dispongono di pozzi neri, dove vengono gettati vari tipi di immondizia, dalle feci fino al materiale tessile.
 
@@ -140,8 +140,8 @@ Le città europee vissero in un clima malsano fino alla metà del XIX secolo qua
 
 Nei centri urbani si è iniziato a riutilizzare alcuni rifiuti (tessuti per fare la carta, corna di mucca per creare bicchieri…), tanto che nacque una nuova professione: lo straccivendolo, colui che recuperava i rifiuti ancora utilizzabili e li rivendeva.
 
-Grazie al lavoro di spazzini e straccivendoli la quantità di rifiuti nei centri abitati diminuiva: una volta raccolti, venivano accumulati in discariche fuori città. 
- 
+Grazie al lavoro di spazzini e straccivendoli la quantità di rifiuti nei centri abitati diminuiva: una volta raccolti, venivano accumulati in discariche fuori città.
+
 ### Il 1900
 
 Durante l’inizio del XX secolo l’uomo ha abbandonato la cultura contadina del riutilizzo. In questo periodo si diffonde la teoria del consumismo, il quale sostiene il concetto usa e getta di oggetti a costo molto basso. La nuova ideologia porta ad un aumento incontrollato della spazzatura.
