@@ -16,6 +16,8 @@ jobs:
         run: |
           npm install
           npm upgrade
+      - name: Build
+        run: npm run build
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.1
         if: ${{github.event_name == 'push' && github.ref == 'refs/heads/main'}}
