@@ -6,44 +6,37 @@ module.exports = {
     editLink: false,
     smoothScroll: true,
     navbar:
-    [
-      {
-        text: 'Tema di Intersezione',
-        link: '/intersezione/'
-      },
-      {
-        text: 'Epica',
-        link: '/epica/'
-      },
-    ],
-    sidebar:
-    [
-      {
-        text: 'Tema di Intersezione',
-        link: '/intersezione/',
-        isGroup: true,
-        children: [
-          {
-            text: 'Rifiuti',
-            link: '/intersezione/rifiuti.md'
-          }
-        ],
-      },
-      {
-        text: 'Epica',
-        link: '/epica/',
-        isGroup: true,
-        children: [
-          {
-            text: 'Didone Innamorata',
-            link: '/epica/didone_innamorata.md'
-          },
-          {
-            text: 'Una fuga sofferta e un addio',
-            link: '/epica/fuga_addio.md'
-          }
-        ]
-      },
-    ]
+      [
+        {
+          text: 'Tema di Intersezione',
+          link: '/intersezione/'
+        },
+        {
+          text: 'Epica',
+          link: '/epica/'
+        },
+      ],
+    sidebar: {
+      '/intersezione/': [
+        {
+          text: 'Rifiuti',
+          link: '/intersezione/rifiuti.md'
+        },
+        {
+          text: 'Green Cities',
+          link: '/intersezione/green_cities.md'
+        }
+      ],
+      '/epica/': [
+        {
+          text: 'Didone Innamorata',
+          link: '/epica/didone_innamorata.md'
+        },
+        {
+          text: 'Una fuga sofferta e un addio',
+          link: '/epica/fuga_addio.md'
+        }
+      ]
+    },
   }
 }

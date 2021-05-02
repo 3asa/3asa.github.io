@@ -7,4 +7,5 @@ footer: Made by us
 
 | Testo                                         | Autori                                                     |
 |-----------------------------------------------|------------------------------------------------------------|
-| [Rifiuti pericolosi](rifiuti.md)              | Diego Sist                                                 |
+| [Rifiuti pericolosi](rifiuti.md)              | Diego Sist, Nicolò Biasi, Edoardo Ianicelli                |
+| [Green Cities](green_cities.md)               | Veronica Bazzo                                             |

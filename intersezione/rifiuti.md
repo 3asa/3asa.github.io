@@ -6,7 +6,7 @@
 
 I rifiuti sono tutto quello che risulta di scarto o avanzo dalle più svariate attività umane. Spesso noi riusciamo solo a vedere i rifiuti della nostra pattumiera e non ci sembrano preoccupanti, ma in realtà questi rappresentano un serio problema per il Pianeta.
 
-![](./img/Immagine1.png)
+![](../img/intersezione/rifiuti/Immagine1.png)
 
 In natura non esiste il concetto di rifiuto: nei cicli biologici, infatti, ciò che viene scartato da un organismo diventa una risorsa per altri esseri viventi, così che nulla viene sprecato ma tutto si trasforma.
 
@@ -27,7 +27,7 @@ I rifiuti vengono classificati in base la loro pericolosità:
 - rifiuti pericolosi: costituiti da elevate dosi di sostanze pericolose e che quindi devono essere gestiti diversamente dal flusso dei rifiuti urbani normali (per esempio i medicinali scaduti e le pile)
 - rifiuti non pericolosi: ovvero i rifiuti generati dalle attività produttive che contengono al loro interno un’elevata dose di sostanze inquinanti. Per renderli innocui occorre eseguire trattamenti che riducono la pericolosità.
 
-![](./img/Immagine2.png)
+![](../img/intersezione/rifiuti/Immagine2.png)
 
 ## La storia dei rifiuti
 
@@ -39,7 +39,7 @@ Durante la Preistoria i rifiuti, composti principalmente dai resti degli animali
 
 Testimonianza di questi comportamenti è il sito archeologico nei pressi di Isernia: qui è stato ritrovato un accampamento preistorico, attribuito all’*Homo Erectus*. Sono stati rinvenuti, vicino a dei falò allestiti per riscaldarsi e per cuocere del cibo, molti resti di animali che erano stati uccisi durante battute di caccia, come bisonti, elefanti e rinoceronti.
 
-![](./img/Immagine3.png)
+![](../img/intersezione/rifiuti/Immagine3.png)
 
 Questi primi rifiuti della storia dell’uomo non avevano un impatto ambientale: si biodegradavano molto facilmente, in poco tempo, senza lasciare traccia.
 
@@ -47,7 +47,7 @@ Nel Neolitico (8.000-5.000 a.C.) la situazione mutò poiché l’essere umano, a
 
 Un esempio è rappresentato dalla città neolitica di Çatalhöyük, situata nell’odierna Turchia. Questo agglomerato urbano raggiunse dimensioni tali da riuscire a contenere, circa 9.000 anni fa, 8 migliaia di abitanti. Tramite degli scavi archeologici si è scoperto che nella cittadina i rifiuti venivano abbandonati lungo le strade o seppelliti in buche nei pressi delle abitazioni. Questo rese le condizioni igieniche pessime: tra gli scheletri rinvenuti sul luogo, ben il 33 per cento di essi, ossia uno su tre, presentano tracce di infezioni batteriche.
 
-![](./img/Immagine4.png)
+![](../img/intersezione/rifiuti/Immagine4.png)
 
 Durante l’Età dei Metalli (5.000-1.500 a.C.) l’uomo, con l’avvento della metallurgia, iniziò a produrre i primi rifiuti tossici: polveri, gas e sostanze dannose per la sua salute si liberavano dalla lavorazione dei metalli e si spargevano nell’ambiente circostante.
 
@@ -59,17 +59,17 @@ In alcune città micenee, databili tra il 3.000 ed il 1.000 a.C., sono stati rin
 
 Un grande passo tecnologico per lo smaltimento dei rifiuti organici è stato possibile grazie alla civiltà dell’Indo: già nel 2.500 a.C. le città situate lungo il corso del fiume Indo possedevano, al contrario di tutte le altre popolazioni, un’efficiente rete fognaria, alla quale avevano accesso tutte le abitazioni. Il sistema fognario scaricava tutto ciò che raccoglieva nel fiume stesso.
 
-![](./img/Immagine5.png)
+![](../img/intersezione/rifiuti/Immagine5.png)
 
 Sistemi fognari erano presenti anche in molte altre civiltà antiche, successive a quella dell’Indo, come Babilonesi, Assiri e Cretesi. Questi ultimi furono i primi a ideare delle fogne costruite completamente in terracotta.
 
-![](./img/Immagine6.png)
+![](../img/intersezione/rifiuti/Immagine6.png)
 
 ### Antica Grecia
 
 Gli antichi Greci non prestavano molta attenzione alla pulizia delle loro *poleis*, come invece erano soliti fare le altre civiltà. Infatti, i Greci raccoglievano tutti i loro rifiuti in vasi, chiamati *amis*, per poi svuotarli in strada o in canali e fiumi.
 
-![](./img/Immagine7.png)
+![](../img/intersezione/rifiuti/Immagine7.png)
 
 Queste pratiche sconsiderate causavano, oltre all’inquinamento di terreni e fiumi (Strabone narra come l’acqua del fiume Eridano non fosse più potabile per tutti i rifiuti che vi erano stati scaricati), una più facile proliferazione delle malattie. Secondo recenti studi la diffusione dell’epidemia di peste che è scoppiata ad Atene nel 430 a.C. è stata particolarmente favorita dalla pessima igiene che regnava nella città.
 
@@ -85,7 +85,7 @@ I Romani avevano molto a cuore la pulizia e l’igiene, tanto che costruirono te
 
 La fogna romana più famosa è sicuramente la *Cloaca Maxima*. Si ispira ad alcune opere architettoniche etrusche, dalle quali traeva importanti elementi di costruzione, come l’arco. È stata inaugurata dal re Tarquinio Prisco e tutt’oggi funziona ancora. All’epoca attraversava tutta l’Urbe e raccoglieva i rifiuti organici delle abitazioni più basse, come le *domus* (non riusciva a garantire un ottimo funzionamento nelle *insulae*, per la loro altezza). Anche se era solo una fognatura, la Cloaca venne utilizzata per smaltire ogni tipo di rifiuto, anche cadaveri (il corpo dell’imperatore Eliogabalo venne gettato in questa fogna nel 222 d.C.).
 
-![](./img/Immagine8.png)
+![](../img/intersezione/rifiuti/Immagine8.png)
 
 Gli abitanti delle *insulae*, sprovviste di collegamenti fognari, gettavano i rifiuti dalle finestre; in alcuni casi raccoglievano la spazzatura organica in un locale apposito (solitamente posto alla fine delle scale che permettevano di salire ai piani superiori) per poi utilizzarla per concimare i campi.
 
@@ -93,7 +93,7 @@ A Roma, già dal III sec a.C., la pulizia delle strade era garantita da *edili* 
 
 La pulizia delle latrine pubbliche era effettuata dai conciatori di pelli poiché dall’urina ricavavano ammoniaca, necessaria per il loro lavoro. A loro Vespasiano impose una tassa.
 
-![](./img/Immagine9.png)
+![](../img/intersezione/rifiuti/Immagine9.png)
 
 Le discariche romane erano chiamate *puticuli*. In essi venivano lasciati rifiuti di ogni tipo e corpi di gladiatori uccisi nei giochi e schiavi morti. Una discarica molto particolare è Monte Testaccio: durante il periodo romano l’eccessivo accumulo di cocci (*testæ* in latino) in un *puticulo*, tale da formare una collinetta alta circa 45 metri sopra il livello del suolo.
 
@@ -108,7 +108,7 @@ Le città, nel periodo precedente all’anno Mille, caddero in una situazione di
 
 Dei maiali venivano lasciati pascolare liberi per le vie: erano l’unico sistema di pulizia stradale. Questi animali però producevano altri rifiuti ed erano anche pericolosi: sembra che uno di essi abbia causato la caduta da cavallo del figlio del re Luigi il Grosso, nel 1131 d.C. i traumi avrebbero poi portato il giovane alla morte.
 
-![](./img/Immagine10.png)
+![](../img/intersezione/rifiuti/Immagine10.png)
 
 Il degrado ha causato un notevole peggioramento delle condizioni igieniche. Ciò ha portato a tremende epidemie, come quella di peste, scaturita negli anni ’30 del XIV secolo (questa pestilenza ha ucciso un terzo della popolazione europea).
 
@@ -122,7 +122,7 @@ In questo periodo quasi tutti gli edifici dispongono di pozzi neri, dove vengono
 
 Nel XVI secolo a Milano vennero introdotti addetti alla pulizia dei pozzi neri e alla raccolta dei rifiuti lasciati lungo le strade. Questi operatori erano chiamati *navazzari* (da *navazza*, il particolare carro che utilizzavano). Tutto ciò che raccoglievano veniva portato fuori città. Nonostante il lavoro di queste persone, esso non fu sufficiente a smaltire tutti i rifiuti e le condizioni igieniche della città non migliorarono.
 
-![](./img/Immagine11.png)
+![](../img/intersezione/rifiuti/Immagine11.png)
 
 Anche Roma si attrezzò con un sistema di pulizia della città: nel 1617 una trentina di spazzini sono incaricati della pulizia dell’Urbe. Svolgono il loro incarico regolarmente, specialmente se il Papa deve uscire. Ai cittadini del centro abitato viene imposta una tassa per la pulizia della città.
 
@@ -132,7 +132,7 @@ In Inghilterra nel 1596 avviene un’invenzione fondamentale: John Harington svi
 
 Le due Rivoluzioni Industriali, avvenute nel XIII e nel XIX secolo, hanno cambiato radicalmente la vita dell’uomo. Grazie a nuove invenzioni, come la macchina a vapore o il telaio meccanico, il lavoro dell’essere umano è stato reso meno difficile. In questo periodo nascono le prime industrie.
 
-![](./img/Immagine12.png)
+![](../img/intersezione/rifiuti/Immagine12.png)
 
 Molta gente dalle campagne si trasferiva in città, con la speranza di trovare un lavoro nelle nuove fabbriche. Questa “migrazione interna” portò ad un sovrappopolamento incontrollato dei centri abitati, che causò un improvviso aumento dei rifiuti e un calo del livello di igiene cittadina.
 
@@ -165,14 +165,14 @@ Un altro grave problema è sicuramente quello delle discariche abusive: spesso i
 
 È triste constatare come i rifiuti si trasformino talvolta in questioni economiche che dimenticano l’urgenza della salvaguardia dell’ambiente. È necessario che i governi, le regioni, ognuno di noi abbia la forza di accantonare ogni tornaconto economico, agendo correttamente e investendo risorse poiché una corretta gestione dei rifiuti (con i quali dobbiamo convivere) significa una buona salute per l’ambiente e per ciascuno di noi.
 
-![](./img/Immagine13.png)
+![](../img/intersezione/rifiuti/Immagine13.png)
 
 ## Rifiuti Pericolosi
 
 Si definiscono rifiuti pericolosi quelli contenenti un’alta concentrazione di sostanze inquinanti.
 Devono essere necessariamente ridotti e seguono specifici trattamenti per essere resi innocui.
 
-![](./img/Immagine14.png)
+![](../img/intersezione/rifiuti/Immagine14.png)
 
 Vi sono diverse categorie di questi rifiuti:
 
@@ -181,9 +181,9 @@ Vi sono diverse categorie di questi rifiuti:
 - a rischio infettivo, generalmente di tipo sanitario, come i materiali provenienti da ambienti di isolamento infettivo in cui è presente il rischio di trasmissione biologica aerea, o rifiuti di sepoltura e cremazione.
 - pericolosi in agricoltura, come oli esauriti prodotti da motori e freni, farmaci ad uso zootecnico, pneumatici usati o materie plastiche.
 
-![](./img/Immagine15.png)
+![](../img/intersezione/rifiuti/Immagine15.png)
 
-![](./img/Immagine16.png)
+![](../img/intersezione/rifiuti/Immagine16.png)
 
 Questi rifiuti richiedono una particolare attenzione per la raccolta, per il trasporto e lo smaltimento, in base alla loro composizione, quindi al loro pericolo, sono classificati in modo diverso.
 
@@ -219,7 +219,7 @@ Possono essere:
 
 - **HP 15 Rifiuti che possiedono direttamente una di queste caratteristiche di pericolo ma possono manifestarle successivamente**: tutti i rifiuti che potrebbero presentare rischi per l’ambiente in futuro.
 
-![](./img/Immagine17.png)
+![](../img/intersezione/rifiuti/Immagine17.png)
 
 Un grande problema di queste tipologie è l’abbandono da parte della specie umana, propriamente definito *littering*.
 
@@ -231,9 +231,9 @@ Inizialmente vengono posti in un deposito temporaneo, spesso situato nel sito di
 
 Dopo lo stoccaggio vengono trasportati, con mezzi autorizzati al trasporto dei rifiuti speciali e pericolosi, in appositi impianti di recupero o smaltimento, a seconda della propria natura e della pericolosità.
 
-![](./img/Immagine18.png)
+![](../img/intersezione/rifiuti/Immagine18.png)
 
-![](./img/Immagine19.png)
+![](../img/intersezione/rifiuti/Immagine19.png)
 
 ## La Sostenibilità Ambientale
 
@@ -245,11 +245,3 @@ La sostenibilità ambientale inizia dalle piccole cose quotidiane, che ognuno pu
 - Non bisogna sprecare cibo e acqua, ad esempio si dovrebbe chiudere il rubinetto dell’acqua mentre ci si lava i denti.
 - Andare a fare la spesa senza prendere la borsa al negozio, ma portarsela direttamente da casa, come borse di tela.
 - Usare, quando è possibile, carta riciclata.
-
-![](./img/Immagine20.png)
-
-![](./img/Immagine21.png)
-
-![](./img/Immagine22.png)
-
-*La Terra è una sola e non possiamo più permetterci di rovinarla ulteriormente, bisogna averne rispetto.*
