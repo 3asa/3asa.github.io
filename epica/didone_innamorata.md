@@ -25,7 +25,7 @@ Decide quindi di confidare i propri sentimenti e dubbi alla sorella Anna, che le
 
 ### Personaggi
 
-![Didone è confusa](./img/didone_innamorata.png)
+![Didone è confusa](../img/epica/didone_innamorata.png)
 
 * **Didone** è la fondatrice e la regina di Cartagine; accoglie Enea e si innamora perdutamente di lui. Nel brano si denota un senso di colpa dovuto alla promessa di fedeltà fatta al defunto marito Sicheo (riga 15-22: *se non avessi…che ora vacilla l’animo*); Didone viene descritta come una donna affascinante viste le numerose proposte di matrimonio da lei rifiutate (r.35-36: *nessun pretendente ti ha mai piegato…e anche gli altri*).
 * **Enea** è il protagonista principale di tutta l’opera, il quale viene descritto come un guerriero valoroso legato alla propria patria e che ha affrontato molte battaglie. I suoi racconti mitici lo rendevano affascinante e per questo suscitavano l’interesse di Didone e di molte altre donne (r.79: *e pende di nuovo dal labbro di Enea che racconta*).
