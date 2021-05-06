@@ -1,7 +1,7 @@
 ---
 home: true
 tagline: Il portale della 2Asa
-footer: Made by Daniele Basso
+footer: Classe 2ASA
 ---
 
 # 2ASA
