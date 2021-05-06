@@ -1,7 +1,7 @@
 ---
 home: true
 tagline: "Virgilio: una lunga storia"
-footer: Made by us
+footer: Classe 2ASA
 ---
 # Indice
 

@@ -11,6 +11,7 @@ footer: Made by Daniele Basso
 * [Tema di intersezione](/intersezione/)
 * [Progetto Epica](/epica/)
 * [Nerosubianco](https://nerosubianco.ga)
+  * Seconda Edizione! (presto!)
 
 ## Chi siamo
 

@@ -22,7 +22,7 @@ jobs:
         with:
           branch: gh-pages
           folder: .vuepress/dist/
-          clean-exclude: docs/
+          clean-exclude: site/
   lint:
     name: Lint
     runs-on: ubuntu-latest
@@ -45,8 +45,8 @@ jobs:
         uses: andstor/copycat-action@v3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          src_path: /docs/.
-          dst_path: /docs/
+          src_path: /site/.
+          dst_path: /site/
           src_branch: main
           dst_branch: gh-pages
           dst_owner: 2asa

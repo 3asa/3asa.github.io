@@ -1,7 +1,7 @@
 ---
 home: true
-tagline: "Virgilio: una lunga storia"
-footer: Made by us
+tagline: "Tema di Intersezione"
+footer: Classe 2ASA
 ---
 # Indice
 
@@ -9,3 +9,5 @@ footer: Made by us
 |-----------------------------------------------|------------------------------------------------------------|
 | [Rifiuti pericolosi](rifiuti.md)              | Diego Sist, Nicolò Biasi, Edoardo Ianicelli                |
 | [Green Cities](green_cities.md)               | Veronica Bazzo                                             |
+| [Bioarchitettura](bioarch.md)                 | Riccardo Vendramini                                        |
+| [Smart Cities](smart_cities.md)               | Kevin Shera                                                |

@@ -25,6 +25,14 @@ module.exports = {
         {
           text: 'Green Cities',
           link: '/intersezione/green_cities.md'
+        },
+        {
+          text: 'Bioarchitettura',
+          link: '/intersezione/bioarch.md'
+        },
+        {
+          text: 'Smart Cities',
+          link: '/intersezione/smart_cities.md'
         }
       ],
       '/epica/': [
