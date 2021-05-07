@@ -1,7 +1,15 @@
 module.exports = {
   lang: 'it-IT',
   title: 'Portale 2asa',
-  description: 'La classe di disperati tenta di recuperare!',
+  head: [
+    [
+      'meta',
+      {
+        name: 'google-site-verification',
+        content: 'co_g6xzIMGsLYfhmxP__tq1gk05p9qCYQL4DR_hyTWo'
+      }
+    ]
+  ],
   themeConfig: {
     editLink: false,
     smoothScroll: true,
