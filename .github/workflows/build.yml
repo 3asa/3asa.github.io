@@ -22,7 +22,6 @@ jobs:
         with:
           branch: gh-pages
           folder: .vuepress/dist/
-          clean-exclude: site/
       - name: Copy
         uses: andstor/copycat-action@v3
         with:
