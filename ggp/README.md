@@ -27,10 +27,6 @@ Siamo un gruppo di ragazzi che ha creato a Sacile (PN) questo progetto allo scop
 
 Semplicemente usando il servizio di google mymaps siamo riusciti a mappare le aree verdi di alcuni comuni vicini.
 
-## Dove trovo il progetto?
-
-Da qua o sul nostro [sito](https://greatgreenplaces.github.io)!
-
 ## Posso aiutare?
 
 Se sei nelle vicinanze (Triveneto), ti piace viaggiare o sai qualcosa di siti internet (HTML, CSS, JS, ...) sei benvenuto! [Manda una mail](mailto:greatgreenplaces@gmail.com) e ti daremo ulteriori istruzioni.
