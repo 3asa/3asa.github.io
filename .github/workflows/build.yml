@@ -46,9 +46,3 @@ jobs:
         run: npm install
       - name: Lint
         run: npm run lint
-  copy:
-    name: Copy docs folder
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
