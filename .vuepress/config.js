@@ -15,6 +15,10 @@ module.exports = {
           text: 'Epica',
           link: '/epica/'
         },
+        {
+          text: 'GGP',
+          link: '/ggp/'
+        },
       ],
     sidebar: {
       '/intersezione/': [
@@ -44,7 +48,37 @@ module.exports = {
           text: 'Una fuga sofferta e un addio',
           link: '/epica/fuga_addio.md'
         }
+      ],
+      '/ggp/': [
+        {
+          text: 'Aree Verdi Pubbliche',
+          link: '/ggp/2.md'
+        },
+        {
+          text: 'Aree verdi private ma accessibili',
+          link: '/ggp/5.md'
+        },
+        {
+          text: 'Viaggi',
+          link: '/ggp/6.md'
+        },
+        {
+          text: 'Bei paesaggi e punti da visitare',
+          link: '/ggp/7.md'
+        },
+        {
+          text: 'Futuro',
+          link: '/ggp/8.md'
+        },
+        {
+          text: 'Altro',
+          link: '/ggp/9.md'
+        },
+        {
+          text: 'La mappa',
+          link: 'https://www.google.com/maps/d/viewer?mid=1Sl5-ozIkkTOspI-ebujvC-pZrgghoUNs'
+        },
       ]
-    },
+    }
   }
 }

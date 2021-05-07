@@ -12,6 +12,7 @@ footer: Classe 2ASA
 * [Progetto Epica](/epica/)
 * [Nerosubianco](https://nerosubianco.ga)
   * Seconda Edizione! (presto!)
+* [GreatGreenPlaces](/ggp/)
 
 ## Chi siamo
 
