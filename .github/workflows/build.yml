@@ -23,7 +23,7 @@ jobs:
           branch: gh-pages
           folder: .vuepress/dist/
       - name: Copy
-        uses: andstor/copycat-action@v3
+        uses: andstor/copycat-action@v3.2.4
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           src_path: /site/.
