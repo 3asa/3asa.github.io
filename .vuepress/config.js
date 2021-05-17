@@ -27,6 +27,10 @@ module.exports = {
           text: 'GGP',
           link: '/ggp/'
         },
+        {
+          text: 'Esperimenti',
+          link: '/esperimenti/'
+        },
       ],
     sidebar: {
       '/intersezione/': [
@@ -86,6 +90,27 @@ module.exports = {
           text: 'La mappa',
           link: 'https://www.google.com/maps/d/viewer?mid=1Sl5-ozIkkTOspI-ebujvC-pZrgghoUNs'
         },
+      ],
+      '/esperimenti/': [
+        {
+         text: 'CHIMICA'
+        },
+        {
+          text: 'Esperimento diluizioni',
+          link: '/esperimenti/diluizioni.md'
+        },
+        {
+          text: 'Esperimento dei gas',
+          link: '/esperimenti/gas.md'
+        },
+        {
+          text: 'FISICA',
+        },
+        {
+          text: 'Esperimento ottica',
+          link: '/esperimenti/ottica.md'
+        },
+
       ]
     }
   }
