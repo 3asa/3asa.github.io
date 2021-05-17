@@ -22,17 +22,6 @@ jobs:
         with:
           branch: gh-pages
           folder: .vuepress/dist/
-      - name: Copy
-        uses: andstor/copycat-action@v3.2.4
-        with:
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          src_path: /site/.
-          dst_path: /site/
-          src_branch: main
-          dst_branch: gh-pages
-          dst_owner: 2asa
-          dst_repo_name: 2asa.github.io
-          clean: true
   lint:
     name: Lint
     runs-on: ubuntu-latest
