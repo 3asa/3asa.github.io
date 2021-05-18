@@ -107,7 +107,7 @@ module.exports = {
           text: 'FISICA',
         },
         {
-          text: 'Esperimento ottica',
+          text: 'Esperimenti ottica',
           link: '/esperimenti/ottica.md'
         },
 
