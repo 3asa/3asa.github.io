@@ -4,6 +4,7 @@ tagline: "Esperimenti svolti dalla classe"
 footer: Classe 2ASA
 ---
 # Indice
+
 Essendo un work in progress, l'indice è per ora oscurato...
 <!--
 | Chimica                                       | Autori                                                     |
