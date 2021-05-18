@@ -31,6 +31,10 @@ module.exports = {
           text: 'Esperimenti',
           link: '/esperimenti/'
         },
+        {
+          text: 'Educazione Civica',
+          link: '/civica/'
+        },
       ],
     sidebar: {
       '/intersezione/': [
@@ -93,24 +97,37 @@ module.exports = {
       ],
       '/esperimenti/': [
         {
-         text: 'CHIMICA'
-        },
-        {
-          text: 'Esperimento diluizioni',
-          link: '/esperimenti/diluizioni.md'
-        },
-        {
-          text: 'Esperimento dei gas',
-          link: '/esperimenti/gas.md'
+          text: 'CHIMICA',
+          isgroup: true,
+          children:
+            [
+              {
+                text: 'Esperimento diluizioni',
+                link: '/esperimenti/diluizioni.md'
+              },
+              {
+                text: 'Esperimento dei gas',
+                link: '/esperimenti/gas.md'
+              },
+            ]
         },
         {
           text: 'FISICA',
+          isgroup: true,
+          children:
+            [
+              {
+                text: 'Esperimenti ottica',
+                link: '/esperimenti/ottica.md'
+              },
+            ]
         },
+      ],
+      '/civica/': [
         {
-          text: 'Esperimenti ottica',
-          link: '/esperimenti/ottica.md'
-        },
-
+          text: 'Rispetto per gli altri e inclusività',
+          link: '/civica/rispetto.md'
+        }
       ]
     }
   }

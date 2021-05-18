@@ -1,23 +1,23 @@
 # Bioarchitettura
 
-![](../img/intersezione/bioarch/Diapositiva1.png)
+![](../img/intersezione/bioarch/1.png)
 
-![](../img/intersezione/bioarch/Diapositiva2.png)
+![](../img/intersezione/bioarch/2.png)
 
-![](../img/intersezione/bioarch/Diapositiva3.png)
+![](../img/intersezione/bioarch/3.png)
 
-![](../img/intersezione/bioarch/Diapositiva4.png)
+![](../img/intersezione/bioarch/4.png)
 
-![](../img/intersezione/bioarch/Diapositiva5.png)
+![](../img/intersezione/bioarch/5.png)
 
-![](../img/intersezione/bioarch/Diapositiva6.png)
+![](../img/intersezione/bioarch/6.png)
 
-![](../img/intersezione/bioarch/Diapositiva7.png)
+![](../img/intersezione/bioarch/7.png)
 
-![](../img/intersezione/bioarch/Diapositiva8.png)
+![](../img/intersezione/bioarch/8.png)
 
-![](../img/intersezione/bioarch/Diapositiva9.png)
+![](../img/intersezione/bioarch/9.png)
 
-![](../img/intersezione/bioarch/Diapositiva10.png)
+![](../img/intersezione/bioarch/10.png)
 
-![](../img/intersezione/bioarch/Diapositiva11.png)
+![](../img/intersezione/bioarch/11.png)

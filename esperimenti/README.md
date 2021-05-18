@@ -12,4 +12,4 @@ footer: Classe 2ASA
 
 | Fisica                                        | Autori                                                     |
 |-----------------------------------------------|------------------------------------------------------------|
-| [Esperimenti sull'ottica](ottica.md)          | Kevin Shera e ??                                           |
+| [Esperimento sull'ottica](ottica.md)          | ???                                                        |
