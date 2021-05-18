@@ -132,11 +132,47 @@ module.exports = {
           text: 'Rispetto per gli altri e inclusività',
           link: '/civica/rispetto.html'
         },
-        
         {
-        text: 'Dalla ginnastica alle scienze motorie',
-         link: '/civica/ginnastica.html'
+          text: 'Dalla ginnastica alle scienze motorie',
+          link: '/civica/ginnastica.html'
         },
+      ],
+      '/testi/': [
+        {
+          text: 'Daniele Basso',
+          link: '/testi/basso/',
+          isgroup: true,
+          children: [
+            {
+              text: 'Lista della spesa',
+              link: '/testi/basso/lista.html'
+            },
+            {
+              text: 'Lettera di lamentele a un animale domestico',
+              link: '/testi/basso/lettera.html'
+            },
+            {
+              text: 'Esercizi di stile',
+              link: '/testi/basso/stile.html'
+            },
+            {
+              text: 'Flusso di coscienza',
+              link: '/testi/basso/chaos.html'
+            },
+            {
+              text: 'Articolo di giornale',
+              link: '/testi/basso/corona.html'
+            },
+            {
+              text: 'Teoremi immaginari',
+              link: 'https://github.com/2asa/2asa.github.io/blob/main/docs/theorema.pdf'
+            },
+            {
+              text: 'Recensione di un gioco da tavolo',
+              link: '/testi/basso/bluff.html'
+            }
+          ]
+        }
       ]
     }
   }
