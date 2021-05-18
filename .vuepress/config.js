@@ -135,8 +135,8 @@ module.exports = {
         
         {
         text: 'Dalla ginnastica alle scienze motorie',
-         link: '/civica/ginnastica.md'
-        }
+         link: '/civica/Scienze_motorie.md'
+        },
       ]
     }
   }
