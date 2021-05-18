@@ -35,6 +35,5 @@ Se sei nelle vicinanze (Triveneto), ti piace viaggiare o sai qualcosa di siti in
 
 Se non vuoi fare nulla allora puoi seguirci sulle nostre pagine social:
 
-* [Instagram](https://instagram.com/greengreatplaces)
 * [Google Maps](https://www.google.com/maps/d/u/0/viewer?mid=1Sl5-ozIkkTOspI-ebujvC-pZrgghoUNs)
 * [Liceo Pujati](https://liceipujati.edu.it)

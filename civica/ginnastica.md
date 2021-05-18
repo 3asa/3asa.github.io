@@ -4,7 +4,7 @@
 
 ![](../img/civica/ginnastica/1.png)
 ![](../img/civica/ginnastica/2.png)
-![](../img/civica/ginnastica/3png)
+![](../img/civica/ginnastica/3.png)
 ![](../img/civica/ginnastica/4.png)
 ![](../img/civica/ginnastica/5.png)
 ![](../img/civica/ginnastica/6.png)
@@ -28,13 +28,14 @@
 - Fiorini G. ; Coretti S. ; Bocchi S. ; in Movimento ; 1ª edizione: febbraio 2010 ; Trebaseleghe (PD); De Agostini Scuola SpA
 
 ### Sitografia
-- https://it.wikipedia.org/
-- https://unsaltoneltempo.jimdofree.com/
-- https://giuseppesibilani.jimdofree.com/
-- https://salvovecchioscienzemotorie.blogspot.com/
-- https://www.quotidiano.net/
-- https://beeclimber.com/
-- http://www.liceopeano.it/
-- https://www.istitutofreud.it/ 
-- https://www.icnicodemifiscianocalvanico.it/
-- https://www.icbelgioioso.edu.it/
+
+- <https://it.wikipedia.org/>
+- <https://unsaltoneltempo.jimdofree.com/>
+- <https://giuseppesibilani.jimdofree.com/>
+- <https://salvovecchioscienzemotorie.blogspot.com/>
+- <https://www.quotidiano.net/>
+- <https://beeclimber.com/>
+- <http://www.liceopeano.it/>
+- <https://www.istitutofreud.it/>
+- <https://www.icnicodemifiscianocalvanico.it/>
+- <https://www.icbelgioioso.edu.it/>

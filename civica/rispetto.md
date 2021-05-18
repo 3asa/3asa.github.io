@@ -47,17 +47,17 @@
 
 ### Sitografia
 
-- fra.europea.eu
-- lamenteemeravigliosa.it
-- siamomamme.it
-- www.ragusaoggi.it
-- www.vimec.biz
-- www.wikipedia.org
-- www.nuovosportgiovani.it
-- www.altalex.com
-- www.zankyou.it
-- www.lifegate.it
-- www.bskilled.it
+- <https://fra.europea.eu>
+- <https://lamenteemeravigliosa.it>
+- <https://siamomamme.it>
+- <https://www.ragusaoggi.it>
+- <https://www.vimec.biz>
+- <https://www.wikipedia.org>
+- <https://www.nuovosportgiovani.it>
+- <https://www.altalex.com>
+- <https://www.zankyou.it>
+- <https://www.lifegate.it>
+- <https://www.bskilled.it>
 
 ::: tip Grazie per l’attenzione
 

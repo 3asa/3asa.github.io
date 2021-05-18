@@ -44,55 +44,55 @@ module.exports = {
       '/intersezione/': [
         {
           text: 'Rifiuti',
-          link: '/intersezione/rifiuti.md'
+          link: '/intersezione/rifiuti.html'
         },
         {
           text: 'Green Cities',
-          link: '/intersezione/green_cities.md'
+          link: '/intersezione/green_cities.html'
         },
         {
           text: 'Bioarchitettura',
-          link: '/intersezione/bioarch.md'
+          link: '/intersezione/bioarch.html'
         },
         {
           text: 'Smart Cities',
-          link: '/intersezione/smart_cities.md'
+          link: '/intersezione/smart_cities.html'
         }
       ],
       '/epica/': [
         {
           text: 'Didone Innamorata',
-          link: '/epica/didone_innamorata.md'
+          link: '/epica/didone_innamorata.html'
         },
         {
           text: 'Una fuga sofferta e un addio',
-          link: '/epica/fuga_addio.md'
+          link: '/epica/fuga_addio.html'
         }
       ],
       '/ggp/': [
         {
           text: 'Aree Verdi Pubbliche',
-          link: '/ggp/2.md'
+          link: '/ggp/2.html'
         },
         {
           text: 'Aree verdi private ma accessibili',
-          link: '/ggp/5.md'
+          link: '/ggp/5.html'
         },
         {
           text: 'Viaggi',
-          link: '/ggp/6.md'
+          link: '/ggp/6.html'
         },
         {
           text: 'Bei paesaggi e punti da visitare',
-          link: '/ggp/7.md'
+          link: '/ggp/7.html'
         },
         {
           text: 'Futuro',
-          link: '/ggp/8.md'
+          link: '/ggp/8.html'
         },
         {
           text: 'Altro',
-          link: '/ggp/9.md'
+          link: '/ggp/9.html'
         },
         {
           text: 'La mappa',
@@ -107,11 +107,11 @@ module.exports = {
             [
               {
                 text: 'Esperimento diluizioni',
-                link: '/esperimenti/diluizioni.md'
+                link: '/esperimenti/diluizioni.html'
               },
               {
                 text: 'Esperimento dei gas',
-                link: '/esperimenti/gas.md'
+                link: '/esperimenti/gas.html'
               },
             ]
         },
@@ -122,7 +122,7 @@ module.exports = {
             [
               {
                 text: 'Esperimenti ottica',
-                link: '/esperimenti/ottica.md'
+                link: '/esperimenti/ottica.html'
               },
             ]
         },
@@ -130,12 +130,12 @@ module.exports = {
       '/civica/': [
         {
           text: 'Rispetto per gli altri e inclusività',
-          link: '/civica/rispetto.md'
+          link: '/civica/rispetto.html'
         },
         
         {
         text: 'Dalla ginnastica alle scienze motorie',
-         link: '/civica/Scienze_motorie.md'
+         link: '/civica/ginnastica.html'
         },
       ]
     }
