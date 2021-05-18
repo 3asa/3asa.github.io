@@ -11,7 +11,7 @@ footer: Classe 2ASA
 * [Tema di intersezione](/intersezione/)
 * [Progetto Epica](/epica/)
 * [Nerosubianco](https://nerosubianco.ga)
-  * Seconda Edizione! (presto!)
+  * [Seconda Edizione!](https://github.com/nerosubianco/nerosubianco.github.io/blob/master/edizioni/ed2.pdf)
 * [GreatGreenPlaces](/ggp/)
 * [Esperimenti](/esperimenti/)
 * [Educazione Civica](/civica/)
