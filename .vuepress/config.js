@@ -131,10 +131,11 @@ module.exports = {
         {
           text: 'Rispetto per gli altri e inclusività',
           link: '/civica/rispetto.md'
-        }
+        },
+        
         {
-          text: 'Dalla ginnastica alle scienze motorie',
-          link: '/civica/ginnastica.md'
+        text: 'Dalla ginnastica alle scienze motorie',
+         link: '/civica/ginnastica.md'
         }
       ]
     }
