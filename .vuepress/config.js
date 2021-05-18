@@ -36,6 +36,10 @@ module.exports = {
           link: '/civica/'
         },
         {
+          text: 'Esercizi di scrittura',
+          link: '/testi/'
+        },
+        {
           text: 'Files',
           link: 'https://github.com/2asa/2asa.github.io/tree/main/docs'
         },

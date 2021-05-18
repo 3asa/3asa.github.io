@@ -15,6 +15,7 @@ footer: Classe 2ASA
 * [GreatGreenPlaces](/ggp/)
 * [Esperimenti](/esperimenti/)
 * [Educazione Civica](/civica/)
+* [Aggiungete i vostri testi!](/testi/)
 
 ## Chi siamo
 
