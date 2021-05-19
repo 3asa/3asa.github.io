@@ -1,9 +1,4 @@
----
-home: true
-tagline: "Virgilio: una lunga storia"
-footer: Classe 2ASA
----
-# Indice
+# Virgilio: una lunga storia
 
 | Testo                                         | Autori                                                     |
 |-----------------------------------------------|------------------------------------------------------------|
