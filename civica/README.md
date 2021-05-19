@@ -1,9 +1,4 @@
----
-home: true
-tagline: "Lavori di educazione civica"
-footer: Classe 2ASA
----
-# Indice
+# Lavori di educazione civica
 
 | Scienze Motorie                                                | Autori                                                                |
 |----------------------------------------------------------------|-----------------------------------------------------------------------|
