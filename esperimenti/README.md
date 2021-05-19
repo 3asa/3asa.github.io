@@ -1,9 +1,4 @@
----
-home: true
-tagline: "Esperimenti svolti dalla classe"
-footer: Classe 2ASA
----
-# Indice
+# Esperimenti svolti in classe
 
 Essendo un work in progress, l'indice è per ora oscurato...
 <!--
