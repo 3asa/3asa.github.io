@@ -1,8 +1,3 @@
----
-home: true
-tagline: "Tema di Intersezione"
-footer: Classe 2ASA
----
 # Indice
 
 | Testo                                         | Autori                                                     |
