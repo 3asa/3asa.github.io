@@ -1,4 +1,6 @@
 # Esercizi di scrittura
 
-- [Lavoro di Daniele Basso (2019-2020)](basso/)
-- Potresti esserci anche tu!
+| Testo | Autori |
+|-------|--------|
+| [Fascicolo 2019-2020](basso/) | Basso Daniele |
+| Potresti esserci anche tu! |  |

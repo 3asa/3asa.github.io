@@ -2,19 +2,19 @@
 home: true
 tagline: La mappa delle aree verdi nelle NOSTRE città
 heroText: GreatGreenPlaces
-heroImage: /images/ggp.png
+heroImage: ../img/ggp.png
 ---
 
 # GGP
 
-| Link                                                                                   |
-|----------------------------------------------------------------------------------------|
-| [Aree verdi pubbliche](2.md)                                                           |
-| [Aree verdi private ma accessibili](5.md)                                              |
-| [Viaggi](6.md)                                                                         |
-| [Bei paesaggi e punti da visitare](7.md)                                               |
-| [Futuro](8.md)                                                                         |
-| [Altro](9.md)                                                                          |
+| Link |
+|------|
+| [Aree verdi pubbliche](2.md) |
+| [Aree verdi private ma accessibili](5.md) |
+| [Viaggi](6.md) |
+| [Bei paesaggi e punti da visitare](7.md) |
+| [Futuro](8.md) |
+| [Altro](9.md) |
 | [La mappa](https://www.google.com/maps/d/viewer?mid=1Sl5-ozIkkTOspI-ebujvC-pZrgghoUNs) |
 
 ## FAQ
