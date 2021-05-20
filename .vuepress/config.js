@@ -3,7 +3,6 @@ module.exports = {
   title: 'Portale 2asa',
   themeConfig: {
     editLink: false,
-    smoothScroll: true,
     navbar:
       [
         {
@@ -97,7 +96,6 @@ module.exports = {
       '/esperimenti/': [
         {
           text: 'CHIMICA',
-          isgroup: true,
           children:
             [
               {
@@ -112,12 +110,25 @@ module.exports = {
         },
         {
           text: 'FISICA',
-          isgroup: true,
           children:
             [
               {
                 text: 'Esperimenti ottica',
-                link: '/esperimenti/ottica.html'
+                link: '/esperimenti/ottica/',
+                children: [
+                  {
+                    text: 'Come si propaga la luce?',
+                    link: '/esperimenti/luce.html'
+                  },
+                  {
+                    text: 'Le Ombre',
+                    link: '/esperimenti/ombre.html'
+                  },
+                  {
+                    text: 'La rifrazione',
+                    link: '/esperimenti/rifrazione.html'
+                  },
+                ]
               },
             ]
         },
@@ -136,7 +147,6 @@ module.exports = {
         {
           text: 'Daniele Basso',
           link: '/testi/basso/',
-          isgroup: true,
           children: [
             {
               text: 'Lista della spesa',

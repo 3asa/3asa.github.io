@@ -6,6 +6,7 @@
 Questo è nato come gioco a sé stante, ma volendo giocarci basterà un mazzo di trevisane.
 
 ## TEMA
+
 Vi calerete nei panni di capi famiglia in una città stato. La città è controllata da una corte debole e corrotta, piena di intrighi. Proverete a controllare la città manipolando, bluffando e corrompendo lungo la strada fino al potere: il vostro obiettivo è eliminare l’influenza di tutte le altre famiglie, forzandole ad andare in esilio. Una sola famiglia sopravvivrà.
 
 ## PERCHÉ LO CONSIGLIO

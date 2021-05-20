@@ -8,4 +8,4 @@
 -->
 | Fisica | Autori |
 |--------|--------|
-| [Esperimento sull'ottica](ottica.md) | Biasi Nicolò |
+| [Esperimenti sull'ottica](ottica/) | Biasi Nicolò |
