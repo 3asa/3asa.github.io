@@ -61,6 +61,18 @@ module.exports = {
         {
           text: 'Una fuga sofferta e un addio',
           link: '/epica/fuga_addio.html'
+        },
+        {
+          text: 'Trama',
+          link: '/epica/trama.html'
+        },
+        {
+          text: 'Biografia Virgilio',
+          link: '/epica/biog.html'
+        },
+        {
+          text: '# Il cavallo di legno e l\'ultima notte di Troia',
+          link: '/epica/cavallo.html'
         }
       ],
       '/ggp/': [
