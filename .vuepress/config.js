@@ -71,8 +71,12 @@ module.exports = {
           link: '/epica/biog.html'
         },
         {
-          text: '# Il cavallo di legno e l\'ultima notte di Troia',
+          text: 'Il cavallo di legno e l\'ultima notte di Troia',
           link: '/epica/cavallo.html'
+        },
+        {
+          text: 'Proemio',
+          link: '/epica/proemio.html'
         }
       ],
       '/ggp/': [

@@ -7,3 +7,4 @@
 | [Didone Innamorata](didone_innamorata.md) | Canal Elisa, Cescon Stella, Santin Giulia, Zanette Martina |
 | [Una fuga sofferta e un addio](fuga_addio.md) | Sacilotto Elena, Sist Diego |
 | [Il cavallo di legno e l'ultima notte di Troia](cavallo.md) | Botosso Edoardo, Casagrande Michele, Vendramini Riccardo |
+| [Proemio](proemio.md) | Furlan Cristiano, Galler Ilaria, Lukaj Iris, Menegon Marco |

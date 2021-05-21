@@ -1,5 +1,7 @@
 # Virgilio
 
+[[toc]]
+
 **Publio Virgilio Marone** nacque il 15 ottobre del 70 a.C. nel villaggio di Andes (Mantova). Suo padre Marone Figulio, appartenente alla gens Virgilia, era un figulius (artigiano specializzato nella costruzione di vasi), ma dopo il matrimonio, divenne un piccolo proprietario terriero dedito anche all'apicoltura.
 
 Virgilio studiò a Cremona, Milano e Roma, dove si formò nella retorica e nell’orazione, specialmente quelle giudiziaria e deliberativa. Si racconta che nella sua prima causa, Virgilio, per la sua timidezza, non riuscì a parlare. Si dedicò quindi all'otium: i campi letterari e filosofici della vita.

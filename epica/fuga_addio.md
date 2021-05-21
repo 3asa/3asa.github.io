@@ -8,18 +8,12 @@ Enea si reca alla casa di Anchise costretto a fuggire dalla città in fiamme, a 
 
 ## Struttura del testo
 
-* Le parole di Anchise
-  da riga 699 [*Allora vinto…*] a 706 [*…degli incendi.*]
-* La voce di Enea
-  da riga 707 [*Su dunque diletto…*] a 720 [*…a una viva sorgente.*]
-* L'inizio della fuga
-  da riga 721 [*Detto così…*] a 744 [*…e al marito.*]
-* La città in fiamme
-  da riga 745 [*Chi non accusai…*] a 767 [*…stanno d’intorno.*]
-* Il dialogo tra Enea e Creusa
-  da riga 768 [*Osando persino lanciare…*] a 789 [*…l’amore di nostro figlio.*]
-* Il doloroso addio
-  da riga 790 [*Com’ ebbe parlato…*] a 794 [*…simile a un alato sogno.*]
+* `Le parole di Anchise`, da riga 699 *Allora vinto […]* a 706 *[…] degli incendi.*
+* `La voce di Enea`, da riga 707 *Su dunque diletto […]* a 720 *[…] a una viva sorgente.*
+* `L'inizio della fuga`, da riga 721 *Detto così […]* a 744 *[…] e al marito.*
+* `La città in fiamme`, da riga 745 *Chi non accusai[…]* a 767 *[…] stanno d’intorno.*
+* `Il dialogo tra Enea e Creusa`, da riga 768 *Osando persino lanciare […]* a 789 *[…] l’amore di nostro figlio.*]
+* `Il doloroso addio`, da riga 790 *Com’ ebbe parlato […]* a 794 *[…] simile a un alato sogno.*
 
 ## Commento del brano
 

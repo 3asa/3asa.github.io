@@ -10,16 +10,11 @@ Decide quindi di confidare i propri sentimenti e dubbi alla sorella Anna, che le
 
 ## Struttura del testo
 
-* *L'indicibile amore di Didone*
-  Da riga 1 *[Ma la regina…]* a riga 5 *[…il riposo che placa.]*
-* *Didone si confida ad Anna*
-  Da riga 6 *[Con il seguente…]* a riga 30 *[…ne riempì il seno.]*
-* *La speranza sopraggiunta a Didone*
-  Da riga 31 *[Anna risponde…]* a riga 53 *[…e intrattabile è il cielo.]*
-* *Il consenso degli Dei*
-  Da riga 54 *[Questo dicendo…]* a riga 73 *[…foriera di morte.]*
-* *La città paralizzata da un addio*
-  Da riga 74 *[Ora con sé…]* a riga 89 *[…portati su al cielo.]*
+* `L'indicibile amore di Didone`, da riga 1 *Ma la regina […]* a riga 5 *[…] il riposo che placa.*
+* `Didone si confida ad Anna`, da riga 6 *Con il seguente […]* a riga 30 *[…] ne riempì il seno.*
+* `La speranza sopraggiunta a Didone`, da riga 31 *Anna risponde […]* a riga 53 *[…] e intrattabile è il cielo.*
+* `Il consenso degli Dei`, da riga 54 *Questo dicendo […]* a riga 73 *[…] foriera di morte.*
+* `La città paralizzata da un addio`, da riga 74 *Ora con sé […]* a riga 89 *[…] portati su al cielo.*
 
 ## Commento del brano
 

@@ -1,5 +1,7 @@
 # La trama dell'Eneide
 
+[[toc]]
+
 ## Libro I
 
 La  storia comincia dopo sette anni dalla distruzione della città di Troia; in questo momento la dea Giunone scatena su Enea e i suoi compagni una tempesta, che li costringe ad approdare in Libia vicino a Cartagine, dove governa la regina Didone.
@@ -18,7 +20,7 @@ Dirigendosi verso l'Italia, i Troiani vengono colpiti da una tempesta che li fa 
 
 Didone è innamorata di Enea, la quale confessa questo sentimento alla sorella Anna. Le dee Giunone e Venere decidono di favorire la loro unione, ma il dio Mercurio va da Enea per ricordargli della sua missione. Enea prepara in segreto la sua flotta per salpare, quando Didone lo scopre, cerca di fare rimanere Enea con lei, ma non riuscendoci si uccide.
 
-# Libro V
+## Libro V
 
 I troiani arrivano in Sicilia; qui Giunone istiga le donne stanche del vagare per mare, a bruciare le navi.
 
@@ -28,7 +30,7 @@ Arrivato a Cuma, Enea incontra Sibilla che lo guida nell'Ade. Qui Enea incontra 
 
 ## Libro VII
 
-I troiani sbarcano nel Lazio, vicino alla foce del Tevere, qui Enea capisce che è arrivato alla meta. Una volta accolto dal re Latino, viene promesso in matrimonio alla figlia Lavinia. 
+I troiani sbarcano nel Lazio, vicino alla foce del Tevere, qui Enea capisce che è arrivato alla meta. Una volta accolto dal re Latino, viene promesso in matrimonio alla figlia Lavinia.
 La moglie di Latino però, avversa alle idee del marito, voleva far sposare Lavinia con suo cugino Turno, re di uno Stato vicino.
 
 ## Libro VIII
