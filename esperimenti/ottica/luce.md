@@ -17,6 +17,7 @@ L’obiettivo di questo esperimento è analizzare il comportamento della luce.
 2. Disporre verticalmente i cartoncini con le mollette e allinearli davanti ad uno schermo/ parete (al buio), in modo che puntando la luce sui fori essa arrivi sullo schermo.
 3. Successivamente porre il terzo cartoncino tra i primi due cartoncini e lo schermo, verificando cosa accade.
 4. Forare il terzo cartoncino in modo che allineandolo con gli altri due, la luce raggiunga la parete.
+5. Osservare e raccogliere informazioni.
 
 ## Foto esperimento
 ![](../../img/esperimenti/ottica/0.png)
