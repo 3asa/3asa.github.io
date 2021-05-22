@@ -2,7 +2,7 @@
 home: true
 tagline: La mappa delle aree verdi nelle NOSTRE città
 heroText: GreatGreenPlaces
-heroImage: ../img/ggp.png
+heroImage: /ggp.png
 ---
 
 # GGP
