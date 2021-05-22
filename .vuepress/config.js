@@ -104,10 +104,11 @@ module.exports = {
           text: 'Altro',
           link: '/ggp/9.html'
         },
+        /*
         {
           text: 'La mappa',
           link: 'https://www.google.com/maps/d/viewer?mid=1Sl5-ozIkkTOspI-ebujvC-pZrgghoUNs'
-        },
+        },*/
       ],
       '/esperimenti/': [
         {

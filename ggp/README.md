@@ -15,7 +15,8 @@ heroImage: ../img/ggp.png
 | [Bei paesaggi e punti da visitare](7.md) |
 | [Futuro](8.md) |
 | [Altro](9.md) |
-| [La mappa](https://www.google.com/maps/d/viewer?mid=1Sl5-ozIkkTOspI-ebujvC-pZrgghoUNs) |
+<!--| [La mappa](https://www.google.com/maps/d/viewer?mid=1Sl5-ozIkkTOspI-ebujvC-pZrgghoUNs)|-->
+
 
 ## FAQ
 
@@ -35,5 +36,5 @@ Se sei nelle vicinanze (Triveneto), ti piace viaggiare o sai qualcosa di siti in
 
 Se non vuoi fare nulla allora puoi seguirci sulle nostre pagine social:
 
-* [Google Maps](https://www.google.com/maps/d/u/0/viewer?mid=1Sl5-ozIkkTOspI-ebujvC-pZrgghoUNs)
+<!--* [Google Maps](https://www.google.com/maps/d/u/0/viewer?mid=1Sl5-ozIkkTOspI-ebujvC-pZrgghoUNs)-->
 * [Liceo Pujati](https://liceipujati.edu.it)
