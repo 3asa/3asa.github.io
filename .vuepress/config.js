@@ -134,15 +134,15 @@ module.exports = {
                 children: [
                   {
                     text: 'Come si propaga la luce?',
-                    link: '/esperimenti/luce.html'
+                    link: '/esperimenti/ottica/luce.html'
                   },
                   {
                     text: 'Le Ombre',
-                    link: '/esperimenti/ombre.html'
+                    link: '/esperimenti/ottica/ombre.html'
                   },
                   {
                     text: 'La rifrazione',
-                    link: '/esperimenti/rifrazione.html'
+                    link: '/esperimenti/ottica/rifrazione.html'
                   },
                 ]
               },
