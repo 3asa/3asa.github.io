@@ -20,6 +20,7 @@ L’obiettivo di questo esperimento è analizzare il comportamento della luce.
 5. Osservare e raccogliere informazioni.
 
 ## Foto esperimento
+
 ![](../../img/esperimenti/ottica/0.png)
 ![](../../img/esperimenti/ottica/1.png)
 ![](../../img/esperimenti/ottica/2.png)
@@ -28,7 +29,6 @@ L’obiettivo di questo esperimento è analizzare il comportamento della luce.
 
 Illuminando i fori quando sono presenti solo due cartoncini, noto che la luce emessa dalla torcia attraversa entrambi i buchi effettuati fino ad arrivare allo schermo/parete. La luce sulla parete ha una forma circolare, congruente con il foro del secondo cartoncino (quello più vicino allo schermo).
 Quando pongo, tra i due cartoncini forati, il terzo, non forato, noto che la luce non raggiunge più la parete né il foro del secondo cartoncino, poiché viene “fermata” da quest’ultimo. Osservo anche che la luce, quando arriva al terzo cartoncino che la blocca, possiede una forma e delle dimensioni identiche a quelle del foro del primo cartoncino.
-
 
 ## Conclusioni
 

@@ -18,6 +18,7 @@
 ![](../img/intersezione/smart_cities/Diapositiva18.png)
 ![](../img/intersezione/smart_cities/Diapositiva19.png)
 
-## Video 
+## Video
+
 - [Cosa sono le smart cities](https://www.youtube.com/watch?v=bANfnYDTzxE)
 - [Come funzionano le green cities](https://www.youtube.com/watch?v=hMDgU6ezZLk)

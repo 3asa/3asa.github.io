@@ -40,7 +40,6 @@
 - <https://www.icnicodemifiscianocalvanico.it/>
 - <https://www.icbelgioioso.edu.it/>
 
-
 ::: tip Grazie per l’attenzione
 
 Canal Elisa, Cescon Stella, Galler Ilaria, Mozzon Andrea, Shera Kevin

@@ -16,10 +16,11 @@ Lo scopo del seguente esperimento è comprendere perché si formano ombra e peno
 
 1. Posizionarsi nella stanza buia.
 2. Illuminare i corpi con la torcia uno alla volta.
-3. Variare la distanza tra gli oggetti e la fonte di luce così da poter osservare le differenze. 
+3. Variare la distanza tra gli oggetti e la fonte di luce così da poter osservare le differenze.
 4. Osservare e raccogliere informazioni.
 
 ## Foto esperimento
+
 ![](../../img/esperimenti/ottica/3.png)
 ![](../../img/esperimenti/ottica/4.png)
 ![](../../img/esperimenti/ottica/5.png)

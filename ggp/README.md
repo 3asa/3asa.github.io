@@ -17,7 +17,6 @@ heroImage: /images/ggp.png
 | [Altro](9.md) |
 <!--| [La mappa](https://www.google.com/maps/d/viewer?mid=1Sl5-ozIkkTOspI-ebujvC-pZrgghoUNs)|-->
 
-
 ## FAQ
 
 ## Chi siete?

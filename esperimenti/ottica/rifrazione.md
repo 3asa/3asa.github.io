@@ -22,6 +22,7 @@ L’obiettivo di questo esperimento è analizzare il fenomeno della rifrazione.
 6. Osservare e raccogliere informazioni
 
 ## Foto esperimento
+
 ![](../../img/esperimenti/ottica/8.png)
 ![](../../img/esperimenti/ottica/9.png)
 ![](../../img/esperimenti/ottica/10.png)
