@@ -159,8 +159,8 @@ module.exports = {
           link: '/civica/ginnastica.html'
         },
         {
-          text: 'Le scienze motorie e i diversi tipi di educazioni alla convivenza civile',
-          link: '/civica/edizioni.html'
+          text: 'Educazione alla convivenza civile',
+          link: '/civica/educazioni.html'
         },
       ],
       '/testi/': [
