@@ -60,6 +60,8 @@ L’obiettivo di questo esperimento è osservare le variazioni (colore, numero d
 
 - La media dell’incremento dei valori del LUX corrisponde alla somma di tutti i valori di incremento diviso il numero di recipienti tranne la soluzione madre --&gt; (1145 LUX+ 1243 LUX + 1342 LUX + 1237 LUX + 1164 LUX + 1254LUX) / 6 = *1231* LUX
 
+#### Tabella dei dati:
+
 ![](../img/esperimenti/diluizioni/3.png)
 
 ## Conclusione
