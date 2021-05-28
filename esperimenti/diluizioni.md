@@ -28,6 +28,7 @@ L’obiettivo di questo esperimento è osservare le variazioni (colore, numero d
 8. Posizionare i contenitori dalla soluzione madre alla più diluita (acqua) ed osservare.
 
 ## Foto esperimento
+
 | **Foto soluzioni** |
 |---------------------|
 | **Soluzione madre** |
