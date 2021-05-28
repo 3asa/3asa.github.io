@@ -20,11 +20,12 @@
 
 ### Sitografia
 
-- istruzione.it
-- educazionestradale.it
-- miur.gov.it
-- alberghierolaspezia.edu.it ● who.int
-- my-personaltrainer.it
+- <https://istruzione.it>
+- <https://educazionestradale.it>
+- <https://miur.gov.it>
+- <https://alberghierolaspezia.edu.it>
+- <https://who.int>
+- <https://my-personaltrainer.it>
 
 ::: tip Grazie per l’attenzione
 
