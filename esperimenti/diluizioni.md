@@ -13,35 +13,35 @@ L’obiettivo di questo esperimento è osservare le variazioni (colore, numero d
 - Superficie bianca (per fare le osservazioni)
 - Torcia
 - Telefono
-    - app per leggere i LUX
+  - app per leggere i LUX
 - Pennarello
 
 ## Procedimento
 
-1.  Porre tutti i materiali sulla superficie vianca e prendere il primo recipiente
-2.  Segnare il volume massimo e la metà di esso in ogni bicchiere
-3.  Preparare la soluzione madre nel primo recipiente aggiungendo 10 goccie di colorante con la pipetta
-4.  Ora portare a volume aggiungendo acqua  
-5.  Adesso bisogna prendere metà della soluzione madre appena preparata e passarla sul secondo recipiente. Successivamente portare a volume così da ottenere una soluzione più diluita
+1. Porre tutti i materiali sulla superficie vianca e prendere il primo recipiente
+2. Segnare il volume massimo e la metà di esso in ogni bicchiere
+3. Preparare la soluzione madre nel primo recipiente aggiungendo 10 goccie di colorante con la pipetta
+4. Ora portare a volume aggiungendo acqua  
+5. Adesso bisogna prendere metà della soluzione madre appena preparata e passarla sul secondo recipiente. Successivamente portare a volume così da ottenere una soluzione più diluita
 6. Ripetere l'operazione per tutti i bicchieri tranne l'ultimo nel quale bisogna disporre solo acqua
 7. Ora porre ciascun recipiente tra il telefono e la torcia (puntata sul bicchiere) e raccogliere i dati.
 8. Posizionare i contenitori dalla soluzione madre alla più diluita (acqua) ed osservare.
 
 ## Foto esperimento
-
-- ###### soluzione madre
-![](../img/esperimenti/diluizioni/B1.png)
-- ###### soluzione diluita 1 / 2
-![](../img/esperimenti/diluizioni/B2.png)
-- ###### soluzione diluita 1 / 8
-![](../img/esperimenti/diluizioni/B3.png)
-- ###### soluzione diluita 1 / 4
-![](../img/esperimenti/diluizioni/B4.png)
-- ###### soluzione più diluita
-![](../img/esperimenti/diluizioni/B5.png)
-- ###### recipiente con acqua
-![](../img/esperimenti/diluizioni/B6.png)
-
+| **Foto soluzioni** |
+|---------------------|
+| **Soluzione madre** |
+| ![](../img/esperimenti/diluizioni/B1.png) |
+| **Soluzione diluita 1/2** |
+| ![](../img/esperimenti/diluizioni/B2.png) |
+| **Soluzione diluita 1/8** |
+| ![](../img/esperimenti/diluizioni/B3.png) |
+| **Soluzione diluita 1/4** |
+| ![](../img/esperimenti/diluizioni/B4.png) |
+| **Soluzione più diluita** |
+| ![](../img/esperimenti/diluizioni/B5.png) |
+| **recipiente con acqua** |
+| ![](../img/esperimenti/diluizioni/B6.png) |
 
 ## Foto recipienti
 
@@ -53,14 +53,14 @@ L’obiettivo di questo esperimento è osservare le variazioni (colore, numero d
 |------------|------------|------------|
 | *Soluzione madre* | 1071 | Partenza |
 | *Recipiente 1* | 2216 | + 1145 LUX |
-| *Recipiente 2* | 3459 | + 1243 LUX | 
-| *Recipiente 3* | 4800 | + 1342 LUX | 
-| *Recipiente 4* | 6037 | + 1237 LUX | 
+| *Recipiente 2* | 3459 | + 1243 LUX |
+| *Recipiente 3* | 4800 | + 1342 LUX |
+| *Recipiente 4* | 6037 | + 1237 LUX |
 | *Recipiente con acqua* | 7201 | + 1164 LUX |
 
 - La media dell’incremento dei valori del LUX corrisponde alla somma di tutti i valori di incremento diviso il numero di recipienti tranne la soluzione madre --&gt; (1145 LUX+ 1243 LUX + 1342 LUX + 1237 LUX + 1164 LUX + 1254LUX) / 6 = *1231* LUX
 
-#### Tabella dei dati:
+### Tabella dei dati
 
 ![](../img/esperimenti/diluizioni/3.png)
 
