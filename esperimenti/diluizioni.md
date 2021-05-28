@@ -49,7 +49,14 @@ L’obiettivo di questo esperimento è osservare le variazioni (colore, numero d
 
 ## Raccolta ed elaborazione dati
 
-![](../img/esperimenti/diluizioni/2.png)
+| Recipiente | Numero LUX | Incremento |
+|------------|------------|------------|
+| *Soluzione madre* | 1071 | Partenza |
+| *Recipiente 1* | 2216 | + 1145 LUX |
+| *Recipiente 2* | 3459 | + 1243 LUX | 
+| *Recipiente 3* | 4800 | + 1342 LUX | 
+| *Recipiente 4* | 6037 | + 1237 LUX | 
+| *Recipiente con acqua* | 7201 | + 1164 LUX |
 
 - La media dell’incremento dei valori del LUX corrisponde alla somma di tutti i valori di incremento diviso il numero di recipienti tranne la soluzione madre --&gt; (1145 LUX+ 1243 LUX + 1342 LUX + 1237 LUX + 1164 LUX + 1254LUX) / 6 = *1231* LUX
 
