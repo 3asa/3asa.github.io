@@ -32,78 +32,78 @@ module.exports = {
         {
           text: 'Files',
           link: 'https://github.com/2asa/2asa.github.io/tree/main/docs'
-        },
+        }
       ],
     sidebar: {
       '/intersezione/': [
         {
           text: 'Rifiuti',
-          link: '/intersezione/rifiuti.html'
+          link: '/intersezione/rifiuti.md'
         },
         {
           text: 'Green Cities',
-          link: '/intersezione/green_cities.html'
+          link: '/intersezione/green_cities.md'
         },
         {
           text: 'Bioarchitettura',
-          link: '/intersezione/bioarch.html'
+          link: '/intersezione/bioarch.md'
         },
         {
           text: 'Smart Cities',
-          link: '/intersezione/smart_cities.html'
+          link: '/intersezione/smart_cities.md'
         }
       ],
       '/epica/': [
         {
           text: 'Didone Innamorata',
-          link: '/epica/didone_innamorata.html'
+          link: '/epica/didone_innamorata.md'
         },
         {
           text: 'Una fuga sofferta e un addio',
-          link: '/epica/fuga_addio.html'
+          link: '/epica/fuga_addio.md'
         },
         {
           text: 'Trama',
-          link: '/epica/trama.html'
+          link: '/epica/trama.md'
         },
         {
           text: 'Biografia Virgilio',
-          link: '/epica/biog.html'
+          link: '/epica/biog.md'
         },
         {
           text: 'Il cavallo di legno e l\'ultima notte di Troia',
-          link: '/epica/cavallo.html'
+          link: '/epica/cavallo.md'
         },
         {
           text: 'Proemio',
-          link: '/epica/proemio.html'
+          link: '/epica/proemio.md'
         }
       ],
       '/ggp/': [
         {
           text: 'Aree Verdi Pubbliche',
-          link: '/ggp/2.html'
+          link: '/ggp/2.md'
         },
         {
           text: 'Aree verdi private ma accessibili',
-          link: '/ggp/5.html'
+          link: '/ggp/5.md'
         },
         {
           text: 'Viaggi',
-          link: '/ggp/6.html'
+          link: '/ggp/6.md'
         },
         {
           text: 'Bei paesaggi e punti da visitare',
-          link: '/ggp/7.html'
+          link: '/ggp/7.md'
         },
         {
           text: 'Futuro',
-          link: '/ggp/8.html'
+          link: '/ggp/8.md'
         },
         {
           text: 'Altro',
-          link: '/ggp/9.html'
-        },
+          link: '/ggp/9.md'
+        }
         /*{
           text: 'La mappa',
           link: 'https://www.google.com/maps/d/viewer?mid=1Sl5-ozIkkTOspI-ebujvC-pZrgghoUNs'
@@ -116,12 +116,12 @@ module.exports = {
             [
               {
                 text: 'Esperimento diluizioni',
-                link: '/esperimenti/diluizioni.html'
+                link: '/esperimenti/diluizioni.md'
               },
               {
                 text: 'Esperimento dei gas',
-                link: '/esperimenti/gas.html'
-              },
+                link: '/esperimenti/gas.md'
+              }
             ]
         },
         {
@@ -134,34 +134,42 @@ module.exports = {
                 children: [
                   {
                     text: 'Come si propaga la luce?',
-                    link: '/esperimenti/ottica/luce.html'
+                    link: '/esperimenti/ottica/luce.md'
                   },
                   {
                     text: 'Le Ombre',
-                    link: '/esperimenti/ottica/ombre.html'
+                    link: '/esperimenti/ottica/ombre.md'
                   },
                   {
                     text: 'La rifrazione',
-                    link: '/esperimenti/ottica/rifrazione.html'
-                  },
+                    link: '/esperimenti/ottica/rifrazione.md'
+                  }
                 ]
-              },
+              }
             ]
-        },
+        }
       ],
       '/civica/': [
         {
           text: 'Rispetto per gli altri e inclusività',
-          link: '/civica/rispetto.html'
+          link: '/civica/rispetto.md'
         },
         {
           text: 'Dalla ginnastica alle scienze motorie',
-          link: '/civica/ginnastica.html'
+          link: '/civica/ginnastica.md'
         },
         {
           text: 'Educazione alla convivenza civile',
-          link: '/civica/educazioni.html'
+          link: '/civica/educazioni.md'
         },
+        {
+          text: 'Responsabilità individuali e collettive, regole',
+          link: '/civica/responsabilità.md'
+        },
+        {
+          text: 'Le Olimpiadi, la Bandiera a 5 cerchi e il fair play',
+          link: '/civica/olimpiadi.md'
+        }
       ],
       '/testi/': [
         {
@@ -170,23 +178,23 @@ module.exports = {
           children: [
             {
               text: 'Lista della spesa',
-              link: '/testi/basso/lista.html'
+              link: '/testi/basso/lista.md'
             },
             {
               text: 'Lettera di lamentele a un animale domestico',
-              link: '/testi/basso/lettera.html'
+              link: '/testi/basso/lettera.md'
             },
             {
               text: 'Esercizi di stile',
-              link: '/testi/basso/stile.html'
+              link: '/testi/basso/stile.md'
             },
             {
               text: 'Flusso di coscienza',
-              link: '/testi/basso/chaos.html'
+              link: '/testi/basso/chaos.md'
             },
             {
               text: 'Articolo di giornale',
-              link: '/testi/basso/corona.html'
+              link: '/testi/basso/corona.md'
             },
             {
               text: 'Teoremi immaginari',
@@ -194,7 +202,7 @@ module.exports = {
             },
             {
               text: 'Recensione di un gioco da tavolo',
-              link: '/testi/basso/bluff.html'
+              link: '/testi/basso/bluff.md'
             }
           ]
         }
