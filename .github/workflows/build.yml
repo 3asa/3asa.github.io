@@ -1,4 +1,4 @@
-name: My Workflow
+name: workflow
 on:
   push:
   pull_request:
