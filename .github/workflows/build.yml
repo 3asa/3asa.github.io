@@ -3,16 +3,27 @@ on:
   push:
   pull_request:
 jobs:
-  build:
-    name: Build & Deploy
+  workflow:
+    name: Workflow
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2.3.4
       - name: Setup Node
         uses: actions/setup-node@v2.1.5
-      - name: Install
-        run: npm install
+        with:
+          node-version: '16'
+      - name: Setup Git
+        run: |
+          git config --global user.name 'Git bot'
+          git config --global user.email 'bot@noreply.github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+      - name: npm
+        run: |
+          npm upgrade
+          git pull && git commit -am "Auto updated package.json and package-lock.json" && git push || echo "Done"
+      - name: Lint
+        run: npm run lint
       - name: Build
         run: npm run build
       - name: Deploy
@@ -20,15 +31,3 @@ jobs:
         with:
           branch: gh-pages
           folder: .vuepress/dist/
-  lint:
-    name: Lint
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2.3.4
-      - name: Setup Node
-        uses: actions/setup-node@v2.1.5
-      - name: Install
-        run: npm install
-      - name: Lint
-        run: npm run lint
