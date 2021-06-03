@@ -18,10 +18,10 @@ jobs:
           git config --global user.name 'Git bot'
           git config --global user.email 'bot@noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-      - name: npm
-        run: |
-          npm upgrade
-          git pull && git commit -am "Auto updated package.json and package-lock.json" && git push || echo "Done"
+      - name: Upgrade
+        run: npm upgrad
+      - name: git pull
+        run: git pull && git commit -am "Auto updated package.json and package-lock.json" && git push || echo "Done"
       - name: Lint
         run: npm run lint
       - name: Build
