@@ -19,8 +19,8 @@ jobs:
           git config --global user.email 'bot@noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
       - name: Upgrade
-        run: npm upgrad
-      - name: git pull
+        run: npm upgrade
+      - name: Commit
         run: git pull && git commit -am "Auto updated package.json and package-lock.json" && git push || echo "Done"
       - name: Lint
         run: npm run lint
