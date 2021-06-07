@@ -1,4 +1,4 @@
-# Interazione luce materia
+# Interazione luce-materia
 
 ## Obiettivo
 
