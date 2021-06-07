@@ -2,7 +2,7 @@
 
 | Chimica | Autori |
 |---------|--------|
-| [Esperimento sulle diluizioni](diluizioni.md) | Shera Kevin |
+| [Interazione luce-materia](diluizioni.md) | Shera Kevin |
 
 | Fisica | Autori |
 |--------|--------|
