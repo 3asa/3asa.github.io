@@ -1,12 +1,6 @@
 {
   "name": "2asa.github.io",
   "description": "Il portale della 2Asa",
-  "scripts": {
-    "dev": "vuepress dev",
-    "build": "vuepress build",
-    "lint": "markdownlint-cli2 **/*.md #node_modules",
-    "fixlint": "markdownlint-cli2-fix **/*.md #node_modules #LICENCE.md"
-  },
   "license": "MIT",
   "devDependencies": {
     "markdownlint-cli2": "0.1.3",
