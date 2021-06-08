@@ -24,3 +24,10 @@ jobs:
         run: git pull && git commit -am "Auto updated package.json and package-lock.json" && git push || echo "Done"
       - name: Lint
         run: npm run lint
+      - name: Build
+        run: npm run build
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: gh-pages
+          folder: .vuepress/dist/
