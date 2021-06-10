@@ -19,13 +19,15 @@ jobs:
           git config --global user.email 'bot@noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
       - name: Upgrade
-        run: npm upgrade
+        run: |
+          yarn install
+          yarn upgrade
       - name: Lint
-        run: 'npx markdownlint-cli2-fix **/*.md #node_modules'
+        run: yarn fixlint
       - name: Commit
         run: git pull && git commit -am "Auto updated package.json and package-lock.json" && git push || echo "Done"
       - name: Build
-        run: npx vuepress build
+        run: yarn build
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2
         with:
