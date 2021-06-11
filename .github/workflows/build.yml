@@ -13,11 +13,6 @@ jobs:
         uses: actions/setup-node@v2.1.5
         with:
           node-version: '16'
-      - name: Setup Git
-        run: |
-          git config --global user.name 'Git bot'
-          git config --global user.email 'bot@noreply.github.com'
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
       - name: Upgrade
         run: |
           yarn install
@@ -25,7 +20,11 @@ jobs:
       - name: Lint
         run: yarn fixlint
       - name: Commit
-        run: git pull && git commit -am "Auto updated package.json and package-lock.json" && git push || echo "Done"
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git pull && git commit -am "Updated packages and submodules" && git push || echo "Done"
       - name: Build
         run: yarn build
       - name: Deploy to GitHub Pages
