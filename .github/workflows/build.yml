@@ -24,9 +24,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git pull
-          git commit -am "Updated packages and submodules"
-          git push
+          git pull && git commit -am "Updated packages and submodules" && git push || echo "Done"
       - name: Build
         run: yarn build
       - name: Deploy to GitHub Pages
