@@ -2397,7 +2397,7 @@ markdownlint-cli2-formatter-default@^0.0.2:
   resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-default/-/markdownlint-cli2-formatter-default-0.0.2.tgz#76f1a064d70966178dfe3bb489af9423d830ca79"
   integrity sha512-jIz1X3SIC8sX4NDFqQFUXL+JEtfnDoN4i+xocEu+etcxGX455pHb6sx86f/yVk4mKJ2o7aNe2ydSx9an22BfBg==
 
-markdownlint-cli2@0.1.3:
+markdownlint-cli2@^0.1.3:
   version "0.1.3"
   resolved "https://registry.yarnpkg.com/markdownlint-cli2/-/markdownlint-cli2-0.1.3.tgz#15ac14edea7816c96978f5f1de9256e637b691c5"
   integrity sha512-4pbrSEDe/G9PjJnrxKXKTQXyXERHvFH+RjvZrCRiNrVPB0p1/wmQXCkdsKNWlaf+gc4gz4k9u1fj2x28GvFenw==
@@ -3613,7 +3613,7 @@ vue@^3.0.11:
     "@vue/runtime-dom" "3.1.1"
     "@vue/shared" "3.1.1"
 
-vuepress@2.0.0-beta.17:
+vuepress@^2.0.0-beta.17:
   version "2.0.0-beta.17"
   resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-2.0.0-beta.17.tgz#e9b3b6ba399659e47a6bdf731a83c66c3dc9c5d1"
   integrity sha512-Ak7ZoIWiuWIFG50h2TiB3PifBda3MDWQxum/sfozOzWdkD+CriwKzYfikt9MyxuD+uQziwXhD4paIpD5HcxarA==
