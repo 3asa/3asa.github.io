@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build",
-    "fixlint": "markdownlint-cli2-fix **/*.md #node_modules"
+    "fixlint": "markdownlint-cli2-fix \"**/*.md\" \"!node_modules\""
   },
   "devDependencies": {
     "markdownlint-cli2": "^0.1.3",
