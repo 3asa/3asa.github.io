@@ -33,5 +33,5 @@ jobs:
           git init
           git add --all
           git checkout --orphan gh-pages
-          git commit --allow-empty --message Deploy to GitHub pages
+          git commit --allow-empty --message "Deploy to GitHub pages"
           git push --force ***github.com/2asa/2asa.github.io.git gh-pages
