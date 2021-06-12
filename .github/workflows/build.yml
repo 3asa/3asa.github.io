@@ -35,4 +35,4 @@ jobs:
           cd ./.vuepress/dist
           git init
           git commit --allow-empty -am "Deploy to GitHub pages"
-          git push -f git@github.com:2asa/2asa.github.io.git main:gh-pages
+          git push -f git@github.com:2asa/2asa.github.io.git gh-pages
