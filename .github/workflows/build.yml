@@ -31,8 +31,9 @@ jobs:
       - name: Build
         run: yarn build
       - name: Deploy to GitHub Pages
-        run: |
-          cd ./.vuepress/dist
-          git init
-          git commit --allow-empty -am "Deploy to GitHub pages"
-          git push -f git@github.com:2asa/2asa.github.io.git gh-pages
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: gh-pages
+          build_dir: .vuepress/dist/
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
