@@ -13,6 +13,11 @@ jobs:
         uses: actions/setup-node@v2.1.5
         with:
           node-version: '16'
+      - name: Setup git
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
       - name: Upgrade
         run: |
           yarn install
@@ -21,17 +26,14 @@ jobs:
         run: yarn fixlint
       - name: Commit
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git pull && git commit -am "Updated packages and submodules" && git push || echo "Done"
+          git pull
+          git commit -am "Updated packages and submodules" && git push || echo "Done"
       - name: Build
         run: yarn build
       - name: Deploy to GitHub Pages
         run: |
           cd ./.vuepress/dist
           git init
-          git add --all
           git checkout --orphan gh-pages
-          git commit --allow-empty --message "Deploy to GitHub pages"
-          git push --force ***github.com/2asa/2asa.github.io.git gh-pages
+          git commit --allow-empty -am "Deploy to GitHub pages"
+          git push -f git@github.com:2asa/2asa.github.io.git main:gh-pages
