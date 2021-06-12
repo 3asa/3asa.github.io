@@ -29,7 +29,7 @@ jobs:
         run: yarn build
       - name: Deploy to GitHub Pages
         run: |
-          cd ./vuepress/dist
+          cd ./.vuepress/dist
           git init
           git add --all
           git checkout --orphan gh-pages
