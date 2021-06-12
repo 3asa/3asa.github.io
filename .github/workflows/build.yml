@@ -34,6 +34,5 @@ jobs:
         run: |
           cd ./.vuepress/dist
           git init
-          git checkout --orphan gh-pages
           git commit --allow-empty -am "Deploy to GitHub pages"
           git push -f git@github.com:2asa/2asa.github.io.git main:gh-pages
