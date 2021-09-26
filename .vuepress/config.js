@@ -1,7 +1,6 @@
 module.exports = {
   lang: 'it-IT',
   title: 'Portale 2asa',
-  bundler: '@vuepress/vite',
   themeConfig: {
     editLink: false,
     navbar:
