@@ -9,7 +9,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "2asa.github.io@workspace:."
   dependencies:
-    markdownlint-cli2: ^0.3.0
+    markdownlint-cli2: 0.3.1
     vuepress: 2.0.0-beta.26
   languageName: unknown
   linkType: soft
@@ -3343,7 +3343,7 @@ fsevents@~2.3.2:
   languageName: node
   linkType: hard
 
-"markdownlint-cli2@npm:0.3.1, markdownlint-cli2@npm:^0.3.0":
+"markdownlint-cli2@npm:0.3.1":
   version: 0.3.1
   resolution: "markdownlint-cli2@npm:0.3.1"
   dependencies:
