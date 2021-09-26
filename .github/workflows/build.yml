@@ -13,21 +13,16 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '16'
-      - name: Setup git
+      - name: Fix Lint
         run: |
+          corepack enable
+          yarn
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-      - name: Upgrade
-        run: |
-          yarn install
-          yarn up
-      - name: Lint
-        run: yarn fixlint
-      - name: Commit
-        run: |
+          yarn fixlint
           git pull
-          git commit -am "Updated packages and submodules" && git push || echo "Done"
+          git commit -am "Fix Lint" && git push || echo "Done"
       - name: Build
         run: yarn build
       - name: Deploy to GitHub Pages
