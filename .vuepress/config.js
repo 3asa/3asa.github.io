@@ -1,6 +1,6 @@
 module.exports = {
   lang: 'it-IT',
-  title: 'Portale 2asa',
+  title: 'Portale 3asa',
   themeConfig: {
     editLink: false,
     navbar:
@@ -31,7 +31,7 @@ module.exports = {
         },
         {
           text: 'Files',
-          link: 'https://github.com/2asa/2asa.github.io/tree/main/docs'
+          link: 'https://github.com/3asa/3asa.github.io/tree/main/docs'
         }
       ],
     sidebar: {
@@ -198,7 +198,7 @@ module.exports = {
             },
             {
               text: 'Teoremi immaginari',
-              link: 'https://github.com/2asa/2asa.github.io/blob/main/docs/theorema.pdf'
+              link: 'https://github.com/3asa/3asa.github.io/blob/main/docs/theorema.pdf'
             },
             {
               text: 'Recensione di un gioco da tavolo',

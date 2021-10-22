@@ -1,7 +1,7 @@
 ---
 home: true
 tagline: Daniele Basso, Classe 1ASA, Anno Scolastico 2019/2020
-footer: Classe 2ASA
+footer: Classe 3ASA
 ---
 # Fascicolo
 
@@ -16,5 +16,5 @@ Dedicato a tutti, e dico tutti, coloro che hanno lottato contro l’epidemia del
 3. [Esercizi di stile](stile.md)
 4. [Flusso di coscienza](chaos.md)
 5. [Articolo di giornale](corona.md)
-6. [Teoremi immaginari](https://github.com/2asa/2asa.github.io/blob/main/docs/theorema.pdf)
+6. [Teoremi immaginari](https://github.com/3asa/3asa.github.io/blob/main/docs/theorema.pdf)
 7. [Recensione di un gioco da tavolo](bluff.md)

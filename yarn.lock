@@ -5,11 +5,11 @@ __metadata:
   version: 4
   cacheKey: 8
 
-"2asa.github.io@workspace:.":
+"3asa.github.io@workspace:.":
   version: 0.0.0-use.local
-  resolution: "2asa.github.io@workspace:."
+  resolution: "3asa.github.io@workspace:."
   dependencies:
-    markdownlint-cli2: 0.3.1
+    markdownlint-cli2: 0.3.2
     vuepress: 2.0.0-beta.26
   languageName: unknown
   linkType: soft
@@ -3343,9 +3343,9 @@ fsevents@~2.3.2:
   languageName: node
   linkType: hard
 
-"markdownlint-cli2@npm:0.3.1":
-  version: 0.3.1
-  resolution: "markdownlint-cli2@npm:0.3.1"
+"markdownlint-cli2@npm:0.3.2":
+  version: 0.3.2
+  resolution: "markdownlint-cli2@npm:0.3.2"
   dependencies:
     globby: ~11.0.4
     markdownlint: ~0.24.0
@@ -3357,7 +3357,7 @@ fsevents@~2.3.2:
   bin:
     markdownlint-cli2: markdownlint-cli2.js
     markdownlint-cli2-fix: markdownlint-cli2-fix.js
-  checksum: b43650e86d89053f17979529166f892cb7ef7951491d80c6fcf780ca6dfced37aa9b358c585bdf75f2706a64cbe7a10f88a0972bbf0d2e5bcbc691e162146a1a
+  checksum: 1648e31aa372511bd604769ecc6de390ca2da15e27d70cf177447b9f3434714195973b8e3565c5b682a297c5456ee6dc10307fb12824d48a042efb84c41a9955
   languageName: node
   linkType: hard
 

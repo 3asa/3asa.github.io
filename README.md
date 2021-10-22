@@ -1,10 +1,10 @@
 ---
 home: true
-tagline: Il portale della 2Asa
-footer: Classe 2ASA
+tagline: Il portale della 3ASA
+footer: Classe 3ASA
 ---
 
-# 2ASA
+# 3asa
 
 ## Indice
 
