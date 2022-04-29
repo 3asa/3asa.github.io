@@ -5,7 +5,7 @@ heroText: GreatGreenPlaces
 heroImage: /images/ggp.png
 ---
 
-# Great Green Places!
+# Great Green Places
 
 | Link |
 |------|
