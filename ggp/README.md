@@ -5,7 +5,7 @@ heroText: GreatGreenPlaces
 heroImage: /images/ggp.png
 ---
 
-# GGP
+# Great Green Places!
 
 | Link |
 |------|
@@ -15,7 +15,7 @@ heroImage: /images/ggp.png
 | [Bei paesaggi e punti da visitare](7.md) |
 | [Futuro](8.md) |
 | [Altro](9.md) |
-<!--| [La mappa](https://www.google.com/maps/d/viewer?mid=1Sl5-ozIkkTOspI-ebujvC-pZrgghoUNs)|-->
+| [La mappa](https://www.openstreetmap.org/#map=15/45.9502/12.5054&layers=H)|
 
 ## FAQ
 
@@ -33,7 +33,7 @@ Se sei nelle vicinanze (Triveneto), ti piace viaggiare o sai qualcosa di siti in
 
 ## Sono pigro... Cosa posso fare per aiutare?
 
-Se non vuoi fare nulla allora puoi seguirci sulle nostre pagine social:
+Se non vuoi fare nulla allora puoi seguirci dalle nostre pagine social:
 
-<!--* [Google Maps](https://www.google.com/maps/d/u/0/viewer?mid=1Sl5-ozIkkTOspI-ebujvC-pZrgghoUNs)-->
+* [OpenStreetMap](https://osm.org/go/0IG5YdWA--?layers=H)
 * [Liceo Pujati](https://liceipujati.edu.it)

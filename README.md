@@ -10,12 +10,11 @@ footer: Classe 3ASA
 
 * [Tema di intersezione](/intersezione/)
 * [Progetto Epica](/epica/)
-* [Nerosubianco](https://nerosubianco.ga)
-  * [Seconda Edizione!](https://github.com/nerosubianco/nerosubianco.github.io/blob/master/edizioni/ed2.pdf)
 * [GreatGreenPlaces](/ggp/)
 * [Esperimenti](/esperimenti/)
 * [Educazione Civica](/civica/)
 * [Aggiungete i vostri testi!](/testi/)
+* [GreatGreenPlaces!](https://www.openstreetmap.org/#map=15/45.9502/12.5054&layers=H)
 
 ## Chi siamo
 

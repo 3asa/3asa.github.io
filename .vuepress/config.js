@@ -14,7 +14,7 @@ module.exports = {
         link: "/epica/",
       },
       {
-        text: "GGP",
+        text: "Great Green Places",
         link: "/ggp/",
       },
       {
@@ -104,10 +104,10 @@ module.exports = {
           text: "Altro",
           link: "/ggp/9.md",
         },
-        /*{
+        {
           text: 'La mappa',
-          link: 'https://www.google.com/maps/d/viewer?mid=1Sl5-ozIkkTOspI-ebujvC-pZrgghoUNs'
-        },*/
+          link: 'https://www.openstreetmap.org/#map=15/45.9502/12.5054&layers=H'
+        },
       ],
       "/esperimenti/": [
         {
