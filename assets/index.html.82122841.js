@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-232ca557","path":"/esperimenti/","title":"Esperimenti svolti in classe","lang":"it-IT","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1655375846000,"contributors":[{"name":"tiziodcaio","email":"d.bass05@proton.me","commits":1}]},"filePathRelative":"esperimenti/README.md"}');export{e as data};

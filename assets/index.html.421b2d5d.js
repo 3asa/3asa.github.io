@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7c520dec","path":"/epica/","title":"Virgilio: una lunga storia","lang":"it-IT","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1655375846000,"contributors":[{"name":"tiziodcaio","email":"d.bass05@proton.me","commits":1}]},"filePathRelative":"epica/README.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-53c56ff7","path":"/esperimenti/gas.html","title":"","lang":"it-IT","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1655375846000,"contributors":[{"name":"tiziodcaio","email":"d.bass05@proton.me","commits":1}]},"filePathRelative":"esperimenti/gas.md"}');export{e as data};

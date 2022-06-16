@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5f1fb500","path":"/esperimenti/ottica/","title":"Esperimenti Ottica","lang":"it-IT","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1655375846000,"contributors":[{"name":"tiziodcaio","email":"d.bass05@proton.me","commits":1}]},"filePathRelative":"esperimenti/ottica/README.md"}');export{t as data};

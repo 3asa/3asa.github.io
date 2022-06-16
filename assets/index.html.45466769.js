@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d556ed9e","path":"/testi/","title":"Esercizi di scrittura","lang":"it-IT","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1655375846000,"contributors":[{"name":"tiziodcaio","email":"d.bass05@proton.me","commits":1}]},"filePathRelative":"testi/README.md"}');export{t as data};

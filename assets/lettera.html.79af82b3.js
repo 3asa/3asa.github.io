@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3fd8f5ee","path":"/testi/basso/lettera.html","title":"Lettera di lamentele ad un animale domestico","lang":"it-IT","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1655375846000,"contributors":[{"name":"tiziodcaio","email":"d.bass05@proton.me","commits":1}]},"filePathRelative":"testi/basso/lettera.md"}');export{t as data};

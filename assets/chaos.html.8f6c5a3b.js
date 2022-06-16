@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3a715689","path":"/testi/basso/chaos.html","title":"Flusso di coscienza","lang":"it-IT","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1655375846000,"contributors":[{"name":"tiziodcaio","email":"d.bass05@proton.me","commits":1}]},"filePathRelative":"testi/basso/chaos.md"}');export{t as data};

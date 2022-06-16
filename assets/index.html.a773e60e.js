@@ -1,0 +1,1 @@
+const i=JSON.parse('{"key":"v-ce297382","path":"/civica/","title":"Lavori di educazione civica","lang":"it-IT","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1655375846000,"contributors":[{"name":"tiziodcaio","email":"d.bass05@proton.me","commits":1}]},"filePathRelative":"civica/README.md"}');export{i as data};
